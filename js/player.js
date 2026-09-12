@@ -24,6 +24,22 @@
       artwork: "images/nyx-leather-jacket-direct.jpg"
     },
     {
+      id: 'mean-vocal',
+      title: "You Like Me Better Mean",
+      subtitle: 'Lead Vocal Master',
+      tag: 'Lead Vocal',
+      src: "music/you_like_me_better_mean_vocal.mp3",
+      artwork: "images/nyx-stage-belting-unobstructed.jpg"
+    },
+    {
+      id: 'mean-inst',
+      title: "You Like Me Better Mean",
+      subtitle: 'Instrumental Edition',
+      tag: 'Instrumental',
+      src: "music/you_like_me_better_mean_instrumental.mp3",
+      artwork: "images/nyx-crt-screens-glitch.jpg"
+    },
+    {
       id: 'stem-intro',
       title: "01 — Intro",
       subtitle: "Don't Look Soft",
