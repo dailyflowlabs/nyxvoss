@@ -17,22 +17,67 @@
   const lyricsCloseBtn = document.getElementById('lyricsCloseBtn');
 
   function openVideo(videoSrc, title, desc, isVertical = false) {
-    if (!modal || !modalVideo) return;
+    if (!modal || !modalContainer) return;
 
-    modalVideo.src = videoSrc;
     if (modalTitle) modalTitle.textContent = title || 'NYX VOSS';
     if (modalDesc) modalDesc.textContent = desc || '';
 
-    if (modalContainer) {
-      if (isVertical) {
-        modalContainer.classList.add('vertical-video');
-      } else {
-        modalContainer.classList.remove('vertical-video');
+    if (isVertical) {
+      modalContainer.classList.add('vertical-video');
+    } else {
+      modalContainer.classList.remove('vertical-video');
+    }
+
+    // Determine if video is YouTube embed or native video
+    const isYouTube = videoSrc.includes('youtube.com') || videoSrc.includes('youtu.be');
+
+    if (isYouTube) {
+      // Extract video ID
+      let videoId = '';
+      if (videoSrc.includes('/shorts/')) {
+        videoId = videoSrc.split('/shorts/')[1].split('?')[0].split('/')[0];
+      } else if (videoSrc.includes('youtu.be/')) {
+        videoId = videoSrc.split('youtu.be/')[1].split('?')[0].split('/')[0];
+      } else if (videoSrc.includes('watch?v=' || videoSrc.includes('v='))) {
+        const urlParams = new URLSearchParams(videoSrc.split('?')[1]);
+        videoId = urlParams.get('v');
+      } else if (videoSrc.includes('/embed/')) {
+        videoId = videoSrc.split('/embed/')[1].split('?')[0].split('/')[0];
+      }
+
+      if (!videoId) videoId = videoSrc;
+
+      if (modalVideo) {
+        modalVideo.pause();
+        modalVideo.style.display = 'none';
+        modalVideo.removeAttribute('src');
+      }
+
+      let iframe = modalContainer.querySelector('iframe');
+      if (!iframe) {
+        iframe = document.createElement('iframe');
+        iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+        iframe.setAttribute('allowfullscreen', 'true');
+        modalContainer.appendChild(iframe);
+      }
+      iframe.style.display = 'block';
+      iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&rel=0&modestbranding=1`;
+    } else {
+      const iframe = modalContainer.querySelector('iframe');
+      if (iframe) {
+        iframe.src = '';
+        iframe.style.display = 'none';
+      }
+
+      if (modalVideo) {
+        modalVideo.style.display = 'block';
+        modalVideo.src = videoSrc;
+        modalVideo.load();
+        modalVideo.play().catch(e => console.log('Autoplay blocked:', e));
       }
     }
 
     modal.showModal();
-    modalVideo.play().catch(e => console.log('Autoplay blocked:', e));
   }
 
   function closeVideo() {
@@ -41,6 +86,10 @@
       modalVideo.pause();
       modalVideo.removeAttribute('src');
       modalVideo.load();
+    }
+    const iframe = modalContainer ? modalContainer.querySelector('iframe') : null;
+    if (iframe) {
+      iframe.src = '';
     }
     modal.close();
   }

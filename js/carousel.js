@@ -17,6 +17,13 @@
 
     if (!slides.length) return;
 
+    if (slides.length <= 1) {
+      if (prevBtn) prevBtn.style.display = 'none';
+      if (nextBtn) nextBtn.style.display = 'none';
+      if (indicatorsContainer) indicatorsContainer.style.display = 'none';
+      return;
+    }
+
     // Render indicators
     if (indicatorsContainer) {
       indicatorsContainer.innerHTML = '';
