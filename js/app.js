@@ -116,9 +116,9 @@
       title: "Cathedral Seraph Archival Gothic Poster (18\" x 24\")",
       price: 24,
       sizes: null,
-      spec: "175gsm Fine Art Matte • Museum Grade",
+      spec: "175gsm Fine Art Matte • Archival Print",
       img: "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front",
-      desc: "Limited museum-grade fine art giclée print of Nyx Voss standing before the cathedral altar. Vibrant archival inks on matte paper."
+      desc: "Limited fine art giclée print of Nyx Voss standing before the cathedral altar. Vibrant archival inks on heavy matte paper."
     },
     mug: {
       title: "Gothic Monogram Ceramic Mug (11oz)",
@@ -147,11 +147,11 @@
       let sizeHtml = "";
       if (item.sizes) {
         sizeHtml = `
-          <div style="margin: 1.2rem 0;">
-            <div style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em; color:var(--text-muted); margin-bottom:0.6rem;">Select Size</div>
-            <div style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+          <div style="margin: 0.8rem 0;">
+            <div style="font-size:0.75rem; text-transform:uppercase; letter-spacing:0.1em; color:var(--text-muted); margin-bottom:0.4rem;">Select Size</div>
+            <div style="display:flex; gap:0.45rem; flex-wrap:wrap;">
               ${item.sizes.map(s => `
-                <button type="button" class="nyx-size-btn" style="padding:0.4rem 0.9rem; border-radius:4px; font-family:var(--font-mono); font-size:0.85rem; cursor:pointer; background:${s === nyxSelectedSize ? 'var(--crimson-core)' : 'rgba(255,255,255,0.06)'}; color:#fff; border:1px solid ${s === nyxSelectedSize ? 'var(--crimson-bright)' : 'rgba(255,255,255,0.15)'};" onclick="window.setNyxSize('${s}', '${key}')">${s}</button>
+                <button type="button" class="nyx-size-btn" style="padding:0.35rem 0.85rem; border-radius:4px; font-family:var(--font-mono); font-size:0.85rem; cursor:pointer; background:${s === nyxSelectedSize ? 'var(--crimson-core)' : 'rgba(255,255,255,0.06)'}; color:#fff; border:1px solid ${s === nyxSelectedSize ? 'var(--crimson-bright)' : 'rgba(255,255,255,0.15)'};" onclick="window.setNyxSize('${s}', '${key}')">${s}</button>
               `).join('')}
             </div>
           </div>
@@ -160,39 +160,39 @@
 
       container.innerHTML = `
         <div style="text-align:left;">
-          <div style="font-size:0.72rem; color:var(--crimson-bright); letter-spacing:0.15em; text-transform:uppercase; margin-bottom:0.4rem;">${item.spec}</div>
-          <h3 style="font-family:var(--font-display); font-size:1.35rem; color:#fff; margin-bottom:0.5rem; line-height:1.25;">${item.title}</h3>
-          <p style="color:var(--text-muted); font-size:0.85rem; line-height:1.5; margin-bottom:1.2rem;">${item.desc}</p>
+          <div style="font-size:0.72rem; color:var(--crimson-bright); letter-spacing:0.15em; text-transform:uppercase; margin-bottom:0.3rem;">${item.spec}</div>
+          <h3 style="font-family:var(--font-display); font-size:1.25rem; color:#fff; margin-bottom:0.35rem; line-height:1.2;">${item.title}</h3>
+          <p style="color:var(--text-muted); font-size:0.82rem; line-height:1.45; margin-bottom:0.8rem;">${item.desc}</p>
           
-          <div style="width:100%; aspect-ratio:1/1; max-height:220px; border-radius:8px; overflow:hidden; margin-bottom:1.2rem; background:#06060a; border:1px solid rgba(255,255,255,0.1);">
-            <img src="${item.img}" alt="${item.title}" style="width:100%; height:100%; object-fit:contain;">
+          <div style="width:100%; aspect-ratio:16/10; max-height:150px; border-radius:8px; overflow:hidden; margin-bottom:0.8rem; background:#06060a; border:1px solid rgba(255,255,255,0.1); display:flex; align-items:center; justify-content:center;">
+            <img src="${item.img}" alt="${item.title}" style="max-width:100%; max-height:100%; object-fit:contain;">
           </div>
 
           ${sizeHtml}
 
-          <div style="display:flex; align-items:center; justify-content:space-between; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.1); border-radius:8px; padding:0.75rem 1.2rem; margin:1rem 0;">
+          <div style="display:flex; align-items:center; justify-content:space-between; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.1); border-radius:8px; padding:0.6rem 1rem; margin:0.8rem 0;">
             <div>
               <div style="font-size:0.7rem; text-transform:uppercase; color:var(--text-dim);">Quantity</div>
-              <div style="font-size:1.25rem; font-weight:700; color:#fff; font-family:var(--font-subhead);">$${subtotal} <span style="font-size:0.75rem; font-weight:400; color:var(--text-muted);">USD</span></div>
+              <div style="font-size:1.2rem; font-weight:700; color:#fff; font-family:var(--font-subhead);">$${subtotal} <span style="font-size:0.75rem; font-weight:400; color:var(--text-muted);">USD</span></div>
             </div>
             <div style="display:flex; align-items:center; gap:0.6rem;">
-              <button type="button" style="width:32px; height:32px; border-radius:4px; border:1px solid rgba(255,255,255,0.2); background:#111; color:#fff; font-size:1.1rem; cursor:pointer;" onclick="window.changeNyxQty(-1, '${key}')">-</button>
-              <span style="font-size:1.1rem; font-weight:700; min-width:20px; text-align:center; color:#fff;">${nyxSelectedQty}</span>
-              <button type="button" style="width:32px; height:32px; border-radius:4px; border:1px solid rgba(255,255,255,0.2); background:#111; color:#fff; font-size:1.1rem; cursor:pointer;" onclick="window.changeNyxQty(1, '${key}')">+</button>
+              <button type="button" style="width:30px; height:30px; border-radius:4px; border:1px solid rgba(255,255,255,0.2); background:#111; color:#fff; font-size:1.1rem; cursor:pointer;" onclick="window.changeNyxQty(-1, '${key}')">-</button>
+              <span style="font-size:1.05rem; font-weight:700; min-width:20px; text-align:center; color:#fff;">${nyxSelectedQty}</span>
+              <button type="button" style="width:30px; height:30px; border-radius:4px; border:1px solid rgba(255,255,255,0.2); background:#111; color:#fff; font-size:1.1rem; cursor:pointer;" onclick="window.changeNyxQty(1, '${key}')">+</button>
             </div>
           </div>
 
-          <form onsubmit="window.submitNyxOrder(event, '${key}')" style="margin-top:1.2rem;">
-            <div style="margin-bottom:0.8rem;">
-              <input type="email" id="nyxBuyerEmail" required placeholder="Enter email address for dispatch receipt..." style="width:100%; padding:0.85rem 1.2rem; border-radius:6px; border:1px solid var(--crimson-border); background:rgba(0,0,0,0.8); color:#fff; font-size:0.9rem; box-sizing:border-box; outline:none; font-family:inherit;">
+          <form onsubmit="window.submitNyxOrder(event, '${key}')" style="margin-top:0.8rem;">
+            <div style="margin-bottom:0.7rem;">
+              <input type="email" id="nyxBuyerEmail" required placeholder="Enter email address for dispatch receipt..." style="width:100%; padding:0.8rem 1.1rem; border-radius:6px; border:1px solid var(--crimson-border); background:rgba(0,0,0,0.8); color:#fff; font-size:0.88rem; box-sizing:border-box; outline:none; font-family:inherit;">
             </div>
-            <button type="submit" class="merch-buy-btn" style="width:100%; padding:0.95rem; font-size:0.95rem;">
+            <button type="submit" class="merch-buy-btn" style="width:100%; padding:0.9rem; font-size:0.92rem;">
               Secure Order Dispatch ($${subtotal})
             </button>
           </form>
 
-          <div style="margin-top:0.8rem; text-align:center; font-size:0.72rem; color:var(--text-dim);">
-            ✓ Official Printify Production • Worldwide Tracking • Dispatch in 2-4 Days
+          <div style="margin-top:0.7rem; text-align:center; font-size:0.72rem; color:var(--text-dim);">
+            ✓ Official Production • Worldwide Tracking • Dispatch in 2-4 Days
           </div>
         </div>
       `;
@@ -220,7 +220,7 @@
           <h3 style="font-family:var(--font-display); font-size:1.4rem; color:#fff; margin-bottom:0.5rem;">Transmission Logged</h3>
           <p style="color:var(--text-secondary); font-size:0.9rem; line-height:1.6; margin-bottom:1.5rem;">
             Order hold confirmed for <strong>${item.title}</strong> (${sizeStr}Qty: ${nyxSelectedQty}).<br>
-            A secure Printify checkout link has been dispatched to <strong>${email}</strong>.
+            A secure checkout link has been dispatched to <strong>${email}</strong>.
           </p>
           <button type="button" class="merch-buy-btn" onclick="document.getElementById('merchModal').close()">Return to Nyx Voss</button>
         </div>
