@@ -46,6 +46,9 @@
   }
 
   function openLyrics() {
+    if (window.NyxAudio && typeof window.NyxAudio.updateLyricsModal === 'function') {
+      window.NyxAudio.updateLyricsModal();
+    }
     if (lyricsModal) {
       lyricsModal.showModal();
     }

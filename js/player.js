@@ -13,7 +13,72 @@
       subtitle: 'Single',
       tag: 'Official Single',
       src: "music/dont_look_soft.mp3",
-      artwork: "images/nyx-closeup-intense.jpg"
+      artwork: "images/nyx-closeup-intense.jpg",
+      lyrics: `<strong>[Intro]</strong>
+[Whispered]
+Don't look soft.
+
+<strong>[Verse 1]</strong>
+[Whispered]
+I wear the night like it owes me rent
+Pretty face, bad intent
+You want the girl in the light
+I only come out when the room goes quiet
+
+<strong>[Pre-Chorus]</strong>
+Smile like a warning
+Come closer
+Then don't.
+
+<strong>[Chorus]</strong>
+[Belted]
+Stay down
+I don't do gentle
+Stay down
+I don't do friends
+If you came here looking for soft
+You walked into the wrong girl again
+
+<strong>[Verse 2]</strong>
+[Whispered]
+Black mouth, sharp teeth, camera flash
+I look expensive, I come with a catch
+You can take a picture
+You can't take me home
+
+<strong>[Pre-Chorus]</strong>
+Smile like a warning
+Come closer
+Then don't.
+
+<strong>[Chorus]</strong>
+[Belted]
+Stay down
+I don't do gentle
+Stay down
+I don't do friends
+If you came here looking for soft
+You walked into the wrong girl again
+
+<strong>[Bridge]</strong>
+[Spoken]
+Say my name like it won't cut
+Nyx.
+Say it again.
+Voss.
+
+<strong>[Chorus]</strong>
+[Belted]
+Stay down
+I don't do gentle
+Stay down
+I don't do friends
+If you came here looking for soft
+You walked into the wrong girl again
+
+<strong>[Outro]</strong>
+[Whispered]
+Don't look soft.`
     },
     {
       id: 'you-like-me-better-mean',
@@ -21,7 +86,72 @@
       subtitle: 'Single',
       tag: 'Official Single',
       src: "music/you_like_me_better_mean.mp3",
-      artwork: "images/nyx-stage-belting-unobstructed.jpg"
+      artwork: "images/nyx-stage-belting-unobstructed.jpg",
+      lyrics: `<strong>[Intro]</strong>
+[Whispered]
+You already know.
+
+<strong>[Verse 1]</strong>
+[Whispered]
+I can do the pretty
+I can do the quiet
+I can do the girl you take to dinner
+Then I ruin it on purpose
+
+<strong>[Pre-Chorus]</strong>
+You keep asking for the soft one
+She doesn't clock in
+
+<strong>[Chorus]</strong>
+[Belted]
+You like me better mean
+You like me better mean
+Don't ask me to be sweet
+You like me better mean
+You like me better mean
+You like me better mean
+You like me better mean
+You like me better mean
+Say it
+You like me better mean
+
+<strong>[Verse 2]</strong>
+[Whispered]
+I smiled once
+You got comfortable
+That's on you
+I told you what I am
+
+<strong>[Pre-Chorus]</strong>
+You keep looking for the soft one
+She doesn't clock in
+
+<strong>[Chorus]</strong>
+[Belted]
+You like me better mean
+You like me better mean
+Don't ask me to be sweet
+You like me better mean
+You like me better mean
+You like me better mean
+Say it
+You like me better mean
+
+<strong>[Bridge]</strong>
+[Spoken]
+Say it nicer.
+No.
+
+<strong>[Chorus]</strong>
+[Belted]
+You like me better mean
+You like me better mean
+Don't ask me to be sweet
+You like me better mean
+
+<strong>[Outro]</strong>
+[Whispered]
+You like me better mean.`
     },
     {
       id: 'angel-when-i-feel-like-it',
@@ -29,7 +159,149 @@
       subtitle: 'Single',
       tag: 'Official Single',
       src: "music/angel_when_i_feel_like_it.mp3",
-      artwork: "images/nyx-cathedral-seraph.jpg"
+      artwork: "images/nyx-cathedral-seraph.jpg",
+      lyrics: `<strong>[Intro]</strong>
+[Breathy]
+I can do the pretty voice
+Watch.
+
+<strong>[Verse 1]</strong>
+[Breathy]
+I know the version you wanted
+Clean girl, church mouth, lights low
+I can hold a note like glass
+I just don't owe you that show
+
+<strong>[Pre-Chorus]</strong>
+[Soft belt]
+Don't look surprised
+I went to school for this
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm an angel when I feel like it
+I'm an angel when I feel like it
+I can make it sound like heaven
+Then I take it back in a second
+I'm an angel when I feel like it
+Don't get used to it
+
+<strong>[Verse 2]</strong>
+[Breathy]
+You heard the high note
+Now you think I'm soft
+Cute
+That was a trick, not a change
+
+<strong>[Pre-Chorus]</strong>
+[Soft belt]
+Don't look surprised
+I went to school for this
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm an angel when I feel like it
+I'm an angel when I feel like it
+I can make it sound like heaven
+Then I take it back in a second
+I'm an angel when I feel like it
+Don't get used to it
+
+<strong>[Bridge]</strong>
+[High head voice, held]
+Ah—
+[Hold]
+[Distorted belt]
+That's enough.
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm an angel when I feel like it
+I'm an angel when I feel like it
+I can make it sound like heaven
+Then I take it back in a second
+
+<strong>[Outro]</strong>
+[Whispered]
+Don't get used to it.`
+    },
+    {
+      id: 'secondhand',
+      title: "Secondhand",
+      subtitle: 'Single',
+      tag: 'New Release',
+      src: "music/secondhand.mp3",
+      artwork: "images/nyx-secondhand-artwork.jpg",
+      lyrics: `<strong>[Intro]</strong>
+[Harsh]
+Don't send a stand-in.
+
+<strong>[Verse 1]</strong>
+[Spat]
+You carved me up
+In a room I wasn't in
+Passed the knife
+Wiped your hands
+Called it conversation
+
+<strong>[Pre-Chorus]</strong>
+[Building yell]
+I'm not a story you get to tell
+I'm in the doorway
+
+<strong>[Chorus]</strong>
+[Screamed belt]
+I DON'T DO SECONDHAND
+Come cut me yourself
+I DON'T DO SECONDHAND
+Don't hide behind a mouth
+If you want me ruined
+Look at me while you do it
+I DON'T DO SECONDHAND
+COME CUT ME YOURSELF
+
+<strong>[Verse 2]</strong>
+[Spat]
+You want the blood
+You want the alibi
+You want me quiet
+And still in the blast
+
+<strong>[Pre-Chorus]</strong>
+[Building yell]
+I'm not a story you get to tell
+I'm in the doorway
+
+<strong>[Chorus]</strong>
+[Screamed belt]
+I DON'T DO SECONDHAND
+Come cut me yourself
+I DON'T DO SECONDHAND
+Don't hide behind a mouth
+If you want me ruined
+Look at me while you do it
+I DON'T DO SECONDHAND
+COME CUT ME YOURSELF
+COME CUT ME YOURSELF
+
+<strong>[Bridge]</strong>
+[Close, vicious]
+I will take the hit.
+I will not take the cowardice.
+[Close, vicious]
+I will take the hit.
+I will not take the cowardice.
+
+<strong>[Final Chorus]</strong>
+[Screamed belt]
+I DON'T DO SECONDHAND
+COME CUT ME YOURSELF
+I DON'T DO SECONDHAND
+LOOK AT ME
+
+<strong>[Outro]</strong>
+[Harsh whisper]
+Come yourself.`
     }
   ];
 
@@ -164,6 +436,7 @@
     if (totalDurationEl) totalDurationEl.textContent = '--:--';
 
     updatePlaylistActiveState();
+    updateLyricsModal();
   }
 
   function playAudio() {
@@ -351,6 +624,19 @@
     });
   }
 
+  // Update Lyrics Modal with Current Track Content
+  function updateLyricsModal() {
+    const modalTitle = document.querySelector('#lyricsModal .lyrics-title');
+    const modalText = document.querySelector('#lyricsModal .lyrics-text');
+    const track = tracks[currentTrackIndex];
+    if (modalTitle && track) {
+      modalTitle.textContent = track.title;
+    }
+    if (modalText && track && track.lyrics) {
+      modalText.innerHTML = track.lyrics;
+    }
+  }
+
   // Global Quick Player Trigger (e.g. from Hero "Listen Now" CTA)
   window.NyxAudio = {
     playTrackById: function (trackId) {
@@ -362,7 +648,11 @@
     },
     playCurrent: function () {
       playAudio();
-    }
+    },
+    getCurrentTrack: function () {
+      return tracks[currentTrackIndex];
+    },
+    updateLyricsModal: updateLyricsModal
   };
 
   // Initialization
