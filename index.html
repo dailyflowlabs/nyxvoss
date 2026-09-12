@@ -40,6 +40,7 @@
       <li><a href="#music" class="nav-link">Tracks</a></li>
       <li><a href="#videos" class="nav-link">Visuals</a></li>
       <li><a href="#shorts" class="nav-link">Shorts</a></li>
+      <li><a href="#merch" class="nav-link">Merch</a></li>
       <li><a href="#connect" class="nav-link">Connect</a></li>
     </ul>
 
@@ -82,8 +83,47 @@
   <main>
     <section class="hero-carousel-section" aria-label="Featured Full-Length Videos">
       <div class="carousel-container">
-        <!-- Slide 1: Don't Look Soft — Full Length Concert Cut -->
+        <!-- Slide 1: Angel When I Feel Like It — Official Music Video -->
         <div class="carousel-slide active" data-slide="0">
+          <div class="slide-media-wrap">
+            <video class="hero-video-element" poster="images/nyx-cathedral-seraph.jpg" preload="metadata" playsinline muted loop autoplay>
+              <source src="videos/nyx_voss_angel_when_i_feel_like_it_master.mp4" type="video/mp4">
+            </video>
+            <div class="hero-gradient"></div>
+            <div class="hero-vignette"></div>
+          </div>
+
+          <div class="hero-content">
+            <div class="hero-badge">
+              <span class="pulse-dot"></span>
+              <span>New Premiere • Out Now on YouTube</span>
+            </div>
+
+            <h1 class="hero-headline">
+              ANGEL WHEN I FEEL LIKE IT
+              <span>OFFICIAL MUSIC VIDEO (2:20)</span>
+            </h1>
+
+            <p class="hero-tagline">
+              "I can do the pretty voice. Watch." Gothic cathedral altars, seraph light beams, piercing soprano head voice, and distorted industrial bass.
+            </p>
+
+            <div class="hero-actions">
+              <button class="btn btn-primary" data-video-src="https://www.youtube.com/watch?v=7x2rsaunoRo" data-video-title="Angel When I Feel Like It — Official Music Video" data-video-desc="NYX VOSS • Official Master • YouTube HD">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5,3 19,12 5,21" />
+                </svg>
+                Watch on YouTube
+              </button>
+              <button class="btn btn-secondary" onclick="if(window.NyxAudio) window.NyxAudio.playTrackById('angel-when-i-feel-like-it'); document.getElementById('music').scrollIntoView({behavior: 'smooth'})">
+                Stream Audio
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2: Don't Look Soft — Full Length Concert Cut -->
+        <div class="carousel-slide" data-slide="1">
           <div class="slide-media-wrap">
             <video class="hero-video-element" poster="images/widescreen_16x9/stage_belt_sparks.jpg" preload="metadata" playsinline muted loop autoplay>
               <source src="videos/nyx_voss_dont_look_soft_full_concert_16x9.mp4" type="video/mp4">
@@ -114,7 +154,7 @@
                 </svg>
                 Watch on YouTube
               </button>
-              <button class="btn btn-secondary" onclick="document.getElementById('music').scrollIntoView({behavior: 'smooth'})">
+              <button class="btn btn-secondary" onclick="if(window.NyxAudio) window.NyxAudio.playTrackById('dont-look-soft'); document.getElementById('music').scrollIntoView({behavior: 'smooth'})">
                 Stream Audio
               </button>
             </div>
@@ -142,8 +182,9 @@
     <!-- Music & Audio Player Section -->
     <section id="music" class="section">
       <div class="section-header">
-        <span class="section-tag">Official Releases</span>
-        <h2 class="section-title">The Sound Vault</h2>
+        <span class="section-tag">Debut LP • Complete 10-Track Album</span>
+        <h2 class="section-title">NOTHING SOFT SURVIVES</h2>
+        <p style="color: var(--text-muted); max-width: 620px; margin: 0.5rem auto 0; font-size: 0.85rem; letter-spacing: 0.08em;">Official 10-track debut album. Industrial alt-rock, distorted sub-bass, soprano glass notes, and unsparing razor-sharp defiance.</p>
       </div>
 
       <div class="player-container">
@@ -250,7 +291,43 @@
       </div>
 
       <div class="videos-container">
-        <!-- Official Video: Don't Look Soft (Full Concert YouTube Master) -->
+        <!-- Official Video 1: Angel When I Feel Like It (Cathedral Visual Master) -->
+        <article class="featured-video-card" style="margin-bottom: 2.5rem;">
+          <div class="featured-video-wrap" data-video-src="https://www.youtube.com/watch?v=7x2rsaunoRo" data-video-title="Angel When I Feel Like It — Official Music Video" data-video-desc="NYX VOSS • Official Master • YouTube HD">
+            <img src="images/nyx-cathedral-seraph.jpg" alt="Angel When I Feel Like It Official Music Video" class="featured-video-thumb">
+            <div class="video-overlay-play">
+              <div class="big-play-btn" aria-hidden="true">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5,3 19,12 5,21" />
+                </svg>
+              </div>
+              <div class="subhead" style="color: #fff; font-size: 0.85rem; letter-spacing: 0.25em;">Watch On YouTube (1080p HD)</div>
+            </div>
+          </div>
+          <div class="featured-video-meta">
+            <div>
+              <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem;">
+                <span class="section-tag" style="margin-bottom: 0;">NEW RELEASE</span>
+                <span style="font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.15em;">OFFICIAL VIDEO • 2:20</span>
+              </div>
+              <h3 class="featured-video-title">Angel When I Feel Like It — Official Music Video</h3>
+              <p class="featured-video-desc">Official cathedral visual master featuring seraph light shafts, candlelit choir stalls, held soprano glass notes, and heavy industrial altar breakdowns.</p>
+            </div>
+            <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+              <button class="btn btn-primary" data-video-src="https://www.youtube.com/watch?v=7x2rsaunoRo" data-video-title="Angel When I Feel Like It — Official Music Video" data-video-desc="NYX VOSS • Official Master • YouTube HD">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5,3 19,12 5,21" />
+                </svg>
+                Play Official Video
+              </button>
+              <a href="https://www.youtube.com/watch?v=7x2rsaunoRo" target="_blank" rel="noopener noreferrer" class="btn btn-secondary">
+                Open in YouTube ↗
+              </a>
+            </div>
+          </div>
+        </article>
+
+        <!-- Official Video 2: Don't Look Soft (Full Concert YouTube Master) -->
         <article class="featured-video-card" style="margin-bottom: 2.5rem;">
           <div class="featured-video-wrap" data-video-src="https://www.youtube.com/watch?v=hq_n9oWeF2s" data-video-title="Don't Look Soft — Official Music Video" data-video-desc="NYX VOSS • Official Master • YouTube HD">
             <img src="images/widescreen_16x9/stage_belt_sparks.jpg" alt="Don't Look Soft Full Concert Video" class="featured-video-thumb">
@@ -408,6 +485,86 @@
           <p class="social-handle">contact@nyxvoss.com</p>
           <span class="subhead" style="font-size: 0.72rem; color: var(--crimson-bright);">Email Management →</span>
         </a>
+    <!-- Merch & Relics Section -->
+    <section class="merch-section" id="merch" aria-label="Official Nyx Voss Merch">
+      <div class="merch-header">
+        <span class="merch-tag">Artifacts & Wearables</span>
+        <h2 class="merch-title">NOTHING SOFT SURVIVES</h2>
+        <p class="merch-subtitle">Official industrial gothic merchandise. Printed on demand via Printify on heavyweight textiles with worldwide shipping.</p>
+      </div>
+
+      <div class="merch-grid">
+        <!-- Item 1: Heavyweight Band Tee -->
+        <div class="merch-card">
+          <div class="merch-img-wrap">
+            <img src="https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2" alt="Nothing Soft Survives Band Tee" class="merch-img">
+            <span class="merch-card-badge">Top Seller</span>
+          </div>
+          <div class="merch-body">
+            <span class="merch-spec">100% Combed Ringspun Cotton</span>
+            <h3 class="merch-item-name">Nothing Soft Survives Tee</h3>
+            <div class="merch-price-bar">
+              <span class="merch-item-price">$34.00</span>
+              <span class="merch-item-note">USD • Printify Custom</span>
+            </div>
+            <p class="merch-item-desc">Heavyweight vintage black band tee featuring the iconic album art and industrial typography.</p>
+            <button class="merch-buy-btn" onclick="openNyxMerch('tee')">Select Size & Order</button>
+          </div>
+        </div>
+
+        <!-- Item 2: Heavy Fleece Hoodie -->
+        <div class="merch-card">
+          <div class="merch-img-wrap">
+            <img src="https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front" alt="Nothing Soft Survives Fleece Hoodie" class="merch-img">
+            <span class="merch-card-badge">Heavy Fleece</span>
+          </div>
+          <div class="merch-body">
+            <span class="merch-spec">10oz Heavyweight Blend</span>
+            <h3 class="merch-item-name">Nothing Soft Survives Hoodie</h3>
+            <div class="merch-price-bar">
+              <span class="merch-item-price">$58.00</span>
+              <span class="merch-item-note">USD • Printify Custom</span>
+            </div>
+            <p class="merch-item-desc">Premium pitch-black fleece pullover with double-layer hood and front pouch pocket.</p>
+            <button class="merch-buy-btn" onclick="openNyxMerch('hoodie')">Select Size & Order</button>
+          </div>
+        </div>
+
+        <!-- Item 3: Cathedral Seraph Poster -->
+        <div class="merch-card">
+          <div class="merch-img-wrap">
+            <img src="https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front" alt="Cathedral Seraph Archival Poster" class="merch-img">
+            <span class="merch-card-badge">18" x 24"</span>
+          </div>
+          <div class="merch-body">
+            <span class="merch-spec">Archival Fine Art Print</span>
+            <h3 class="merch-item-name">Cathedral Seraph Poster</h3>
+            <div class="merch-price-bar">
+              <span class="merch-item-price">$24.00</span>
+              <span class="merch-item-note">USD • Museum Grade</span>
+            </div>
+            <p class="merch-item-desc">175gsm museum-grade archival matte fine art print of the iconic cathedral altar scene.</p>
+            <button class="merch-buy-btn" onclick="openNyxMerch('poster')">Order Art Print</button>
+          </div>
+        </div>
+
+        <!-- Item 4: Ceramic Mug -->
+        <div class="merch-card">
+          <div class="merch-img-wrap">
+            <img src="https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front" alt="Nothing Soft Survives Ceramic Mug" class="merch-img">
+            <span class="merch-card-badge">Ceramic</span>
+          </div>
+          <div class="merch-body">
+            <span class="merch-spec">11oz High-Gloss Black</span>
+            <h3 class="merch-item-name">Gothic Monogram Mug</h3>
+            <div class="merch-price-bar">
+              <span class="merch-item-price">$18.00</span>
+              <span class="merch-item-note">USD • Printify Custom</span>
+            </div>
+            <p class="merch-item-desc">High gloss ceramic mug with razor-sharp album artwork and NV emblem. Microwave & dishwasher safe.</p>
+            <button class="merch-buy-btn" onclick="openNyxMerch('mug')">Order Mug</button>
+          </div>
+        </div>
       </div>
     </section>
   </main>
@@ -523,6 +680,20 @@
           Nyx Voss.
         </div>
       </div>
+    </div>
+  </dialog>
+
+  <!-- Nyx Voss Merch Modal Dialog -->
+  <dialog id="merchModal" class="custom-modal" aria-label="Merchandise Order Dialog">
+    <div class="modal-inner" style="max-width: 500px; padding: 2rem;">
+      <button id="merchCloseBtn" class="modal-close-btn" aria-label="Close merch dialog" onclick="document.getElementById('merchModal').close()">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+
+      <div id="merchModalContent"></div>
     </div>
   </dialog>
 
