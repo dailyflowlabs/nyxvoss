@@ -8,68 +8,20 @@
 
   const tracks = [
     {
-      id: 'dls-vocal',
+      id: 'dont-look-soft',
       title: "Don't Look Soft",
-      subtitle: 'Lead Vocal Master',
-      tag: 'Lead Vocal',
-      src: "music/dont_look_soft_vocal.mp3",
+      subtitle: 'Single',
+      tag: 'Official Single',
+      src: "music/dont_look_soft.mp3",
       artwork: "images/nyx-closeup-intense.jpg"
     },
     {
-      id: 'dls-inst',
-      title: "Don't Look Soft",
-      subtitle: 'Instrumental Edition',
-      tag: 'Instrumental',
-      src: "music/dont_look_soft_instrumental.mp3",
-      artwork: "images/nyx-leather-jacket-direct.jpg"
-    },
-    {
-      id: 'mean-vocal',
+      id: 'you-like-me-better-mean',
       title: "You Like Me Better Mean",
-      subtitle: 'Lead Vocal Master',
-      tag: 'Lead Vocal',
-      src: "music/you_like_me_better_mean_vocal.mp3",
+      subtitle: 'Single',
+      tag: 'Official Single',
+      src: "music/you_like_me_better_mean.mp3",
       artwork: "images/nyx-stage-belting-unobstructed.jpg"
-    },
-    {
-      id: 'mean-inst',
-      title: "You Like Me Better Mean",
-      subtitle: 'Instrumental Edition',
-      tag: 'Instrumental',
-      src: "music/you_like_me_better_mean_instrumental.mp3",
-      artwork: "images/nyx-crt-screens-glitch.jpg"
-    },
-    {
-      id: 'stem-intro',
-      title: "01 — Intro",
-      subtitle: "Don't Look Soft",
-      tag: 'Stem',
-      src: "audio_clips/01_intro_dont_look_soft.mp3",
-      artwork: "images/nyx-performance-mic.jpg"
-    },
-    {
-      id: 'stem-v1',
-      title: "02 — Verse 1",
-      subtitle: "Night Owes Rent",
-      tag: 'Stem',
-      src: "audio_clips/02_verse1_night_owes_rent.mp3",
-      artwork: "images/nyx-wet-rain-seductive.jpg"
-    },
-    {
-      id: 'stem-pre',
-      title: "03 — Pre-Chorus",
-      subtitle: "Smile Warning",
-      tag: 'Stem',
-      src: "audio_clips/03_prechorus_smile_warning.mp3",
-      artwork: "images/nyx-side-profile.jpg"
-    },
-    {
-      id: 'stem-chorus',
-      title: "04 — Chorus",
-      subtitle: "Stay Down",
-      tag: 'Stem',
-      src: "audio_clips/04_chorus_stay_down.mp3",
-      artwork: "images/nyx-bunker-crate-seated.jpg"
     }
   ];
 
