@@ -22,6 +22,14 @@
       tag: 'Official Single',
       src: "music/you_like_me_better_mean.mp3",
       artwork: "images/nyx-stage-belting-unobstructed.jpg"
+    },
+    {
+      id: 'angel-when-i-feel-like-it',
+      title: "Angel When I Feel Like It",
+      subtitle: 'Single',
+      tag: 'Official Single',
+      src: "music/angel_when_i_feel_like_it.mp3",
+      artwork: "images/nyx-cathedral-seraph.jpg"
     }
   ];
 

@@ -5,3 +5,10 @@ __pycache__/
 videos/test_*.mp4
 videos/temp_cut_*.mp4
 videos/concat_list.txt
+videos/shot_16x9_*
+videos/shot_mean_*
+videos/shot_prechorus_direct_lipsync.mp4
+videos/shot_stage_belt_lipsync.mp4
+audio_slices_*/
+scratch/
+
