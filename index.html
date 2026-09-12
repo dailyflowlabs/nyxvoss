@@ -615,6 +615,22 @@
     </div>
   </footer>
 
+  <!-- Persistent Floating Corner Music Player -->
+  <div class="persistent-floating-player" id="persistentMiniPlayer">
+    <div class="floating-player-track-info" id="floatingPlayerTrackInfo" title="Click to view full player">
+      <img src="images/nyx-closeup-intense.jpg" alt="Artwork" class="mini-player-thumb" id="nyxMiniThumb">
+      <div class="mini-player-info">
+        <div class="mini-player-title" id="nyxMiniTitle">Don't Look Soft</div>
+        <div class="mini-player-artist" id="nyxMiniSubtitle">NYX VOSS • Single</div>
+      </div>
+    </div>
+    <button class="mini-play-btn" id="nyxMiniPlayBtn" aria-label="Play or pause audio">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+        <polygon points="5,3 19,12 5,21" />
+      </svg>
+    </button>
+  </div>
+
   <!-- Custom Video Playback Modal (Accessible HTML5 Dialog, No standard JS dialogs) -->
   <dialog id="videoModal" class="custom-modal" aria-label="Nyx Voss Video Player">
     <div class="modal-inner">
