@@ -1,0 +1,21 @@
+name: nyxvoss
+region: nyc
+domains:
+- domain: nyxvoss.com
+  type: PRIMARY
+- domain: www.nyxvoss.com
+  type: ALIAS
+ingress:
+  rules:
+  - component:
+      name: nyxvoss-site
+    match:
+      path:
+        prefix: /
+static_sites:
+- name: nyxvoss-site
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: dailyflowlabs/nyxvoss
+  output_dir: .

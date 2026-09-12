@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+__pycache__/
+.env
+videos/test_*.mp4
+videos/temp_cut_*.mp4
+videos/concat_list.txt
