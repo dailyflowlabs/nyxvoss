@@ -302,6 +302,78 @@ LOOK AT ME
 <strong>[Outro]</strong>
 [Harsh whisper]
 Come yourself.`
+    },
+    {
+      id: 'good-in-the-dark',
+      title: "Good In The Dark",
+      subtitle: 'Single',
+      tag: 'New Release',
+      src: "music/good_in_the_dark.mp3",
+      artwork: "images/nyx-good-in-the-dark-artwork.jpg",
+      lyrics: `<strong>[Intro]</strong>
+[Low]
+Don't turn it on.
+
+<strong>[Verse 1]</strong>
+[Intimate]
+You look different in this lighting
+That's not a compliment
+That's a warning
+I get honest when the room goes black
+
+<strong>[Pre-Chorus]</strong>
+You can stay
+You can't get comfortable
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm good in the dark
+I'm good in the dark
+Don't ask who I am in the morning
+I'm good in the dark
+Keep your hands
+Keep your story
+I'm good in the dark
+That's the deal
+I'm good in the dark
+That's the deal
+
+<strong>[Verse 2]</strong>
+[Intimate]
+You want the penthouse version
+The glass, the skyline, the girl
+You can have the hour
+You can't have the keys
+
+<strong>[Pre-Chorus]</strong>
+You can stay
+You can't get comfortable
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm good in the dark
+I'm good in the dark
+Don't ask who I am in the morning
+I'm good in the dark
+Keep your hands
+Keep your story
+I'm good in the dark
+That's the deal
+
+<strong>[Bridge]</strong>
+[Spoken]
+If you needed light
+You picked the wrong floor.
+
+<strong>[Chorus]</strong>
+[Belted]
+I'm good in the dark
+I'm good in the dark
+Don't ask who I am in the morning
+
+<strong>[Outro]</strong>
+[Whispered]
+Leave it off.`
     }
   ];
 
