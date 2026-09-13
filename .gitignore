@@ -2,6 +2,9 @@
 *.pyc
 __pycache__/
 .env
+.env.*
+.env.local
+node_modules/
 videos/test_*.mp4
 videos/temp_cut_*.mp4
 videos/concat_list.txt

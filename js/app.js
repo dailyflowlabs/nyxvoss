@@ -97,22 +97,44 @@
   // Nyx Voss Merch Data & Modal
   const NYX_MERCH = {
     tee: {
+      productId: "6aa5bd2cfeeb21d8740fad16",
+      defaultVariantId: 18102,
       title: "Nothing Soft Survives Heavyweight Band Tee",
       price: 34,
-      sizes: ["S", "M", "L", "XL", "2XL"],
+      sizes: ["S", "M", "L", "XL", "2XL", "3XL"],
+      variants: {
+        "S": 18100,
+        "M": 18101,
+        "L": 18102,
+        "XL": 18103,
+        "2XL": 18104,
+        "3XL": 18105
+      },
       spec: "100% Combed Ringspun Cotton • Pitch Black",
       img: "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2",
       desc: "Official heavyweight vintage black band tee featuring the Nothing Soft Survives album cover art and industrial gothic typography."
     },
     hoodie: {
+      productId: "6aa5bd30b6bdffef520bd68a",
+      defaultVariantId: 32920,
       title: "Nothing Soft Survives Heavyweight Fleece Hoodie",
       price: 58,
       sizes: ["S", "M", "L", "XL", "2XL", "3XL"],
+      variants: {
+        "S": 32918,
+        "M": 32919,
+        "L": 32920,
+        "XL": 32921,
+        "2XL": 32922,
+        "3XL": 32923
+      },
       spec: "10oz Heavyweight Fleece • Deep Black",
       img: "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front",
       desc: "Premium heavyweight pullover hoodie with double-layer hood, front pouch pocket, and high definition Nothing Soft Survives front print."
     },
     poster: {
+      productId: "6aa5bd3381bf80bae9088fbe",
+      defaultVariantId: 43172,
       title: "Cathedral Seraph Archival Gothic Poster (18\" x 24\")",
       price: 24,
       sizes: null,
@@ -121,8 +143,10 @@
       desc: "Limited fine art giclée print of Nyx Voss standing before the cathedral altar. Vibrant archival inks on heavy matte paper."
     },
     mug: {
+      productId: "6aa5bd35c2763c2ff201c2f3",
+      defaultVariantId: 33719,
       title: "Gothic Monogram Ceramic Mug (11oz)",
-      price: 18,
+      price: 16,
       sizes: null,
       spec: "11oz High-Gloss Black Accent Ceramic",
       img: "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front",
@@ -135,7 +159,13 @@
 
   window.openNyxMerch = function (key) {
     const item = NYX_MERCH[key] || NYX_MERCH.tee;
-    nyxSelectedSize = item.sizes ? item.sizes[1] || "M" : null;
+    if (item.sizes) {
+      if (!nyxSelectedSize || !item.sizes.includes(nyxSelectedSize)) {
+        nyxSelectedSize = item.sizes.includes("L") ? "L" : item.sizes[0];
+      }
+    } else {
+      nyxSelectedSize = null;
+    }
     nyxSelectedQty = 1;
 
     const modal = document.getElementById('merchModal');
@@ -182,17 +212,14 @@
             </div>
           </div>
 
-          <form onsubmit="window.submitNyxOrder(event, '${key}')" style="margin-top:0.8rem;">
-            <div style="margin-bottom:0.7rem;">
-              <input type="email" id="nyxBuyerEmail" required placeholder="Enter email address for dispatch receipt..." style="width:100%; padding:0.8rem 1.1rem; border-radius:6px; border:1px solid var(--crimson-border); background:rgba(0,0,0,0.8); color:#fff; font-size:0.88rem; box-sizing:border-box; outline:none; font-family:inherit;">
-            </div>
-            <button type="submit" class="merch-buy-btn" style="width:100%; padding:0.9rem; font-size:0.92rem;">
-              Secure Order Dispatch ($${subtotal})
+          <div style="margin-top:1rem;">
+            <button type="button" id="nyxCheckoutBtn" class="merch-buy-btn" onclick="window.submitNyxOrder(event, '${key}')" style="width:100%; padding:0.95rem 1rem; font-size:0.92rem; font-weight:700; letter-spacing:0.08em; white-space:normal; line-height:1.3; text-align:center;">
+              Proceed to Checkout ($${subtotal})
             </button>
-          </form>
+          </div>
 
           <div style="margin-top:0.7rem; text-align:center; font-size:0.72rem; color:var(--text-dim);">
-            ✓ Official Production • Worldwide Tracking • Dispatch in 2-4 Days
+            ✓ Official Production • Printed & Shipped via Printify • Tracking Included
           </div>
         </div>
       `;
@@ -208,23 +235,55 @@
       render();
     };
 
-    window.submitNyxOrder = function(e, k) {
-      e.preventDefault();
-      const email = document.getElementById('nyxBuyerEmail').value;
-      const sizeStr = nyxSelectedSize ? `Size: ${nyxSelectedSize} • ` : '';
-      container.innerHTML = `
-        <div style="text-align:center; padding:1.5rem 0.5rem;">
-          <div style="width:50px; height:50px; border-radius:50%; background:rgba(225,29,72,0.15); border:1px solid var(--crimson-bright); display:flex; align-items:center; justify-content:center; margin:0 auto 1.2rem; color:var(--crimson-bright);">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg>
+    window.submitNyxOrder = async function(e, k) {
+      if (e) e.preventDefault();
+      const item = NYX_MERCH[k] || NYX_MERCH.tee;
+      const btn = document.getElementById('nyxCheckoutBtn');
+
+      let variantId = item.defaultVariantId;
+      if (item.variants && nyxSelectedSize) {
+        variantId = item.variants[nyxSelectedSize] || item.defaultVariantId;
+      }
+
+      if (btn) {
+        btn.disabled = true;
+        btn.style.opacity = '0.75';
+        btn.innerHTML = 'Connecting to Checkout...';
+      }
+
+      try {
+        const response = await fetch('/api/merch/checkout', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            productId: item.productId,
+            variantId: variantId,
+            quantity: nyxSelectedQty
+          })
+        });
+
+        const data = await response.json();
+        if (!response.ok || !data.url) {
+          throw new Error(data.error || 'Failed to initialize checkout session.');
+        }
+
+        window.location.href = data.url;
+      } catch (err) {
+        console.error('Checkout error:', err);
+        if (btn) {
+          btn.disabled = false;
+          btn.style.opacity = '1';
+          btn.textContent = 'Retry Checkout';
+        }
+        container.innerHTML = `
+          <div style="text-align:center; padding:1.5rem 0.5rem;">
+            <div style="width:50px; height:50px; border-radius:50%; background:rgba(239,68,68,0.15); border:1px solid #ef4444; display:flex; align-items:center; justify-content:center; margin:0 auto 1.2rem; color:#ef4444;">!</div>
+            <h3 style="font-family:var(--font-display); font-size:1.3rem; color:#fff; margin-bottom:0.5rem;">Checkout Notice</h3>
+            <p style="color:var(--text-muted); font-size:0.88rem; line-height:1.5; margin-bottom:1.5rem;">${err.message || 'Unable to connect to checkout gateway. Please try again.'}</p>
+            <button type="button" class="merch-buy-btn" onclick="document.getElementById('merchModal').close()">Return to Nyx Voss</button>
           </div>
-          <h3 style="font-family:var(--font-display); font-size:1.4rem; color:#fff; margin-bottom:0.5rem;">Transmission Logged</h3>
-          <p style="color:var(--text-secondary); font-size:0.9rem; line-height:1.6; margin-bottom:1.5rem;">
-            Order hold confirmed for <strong>${item.title}</strong> (${sizeStr}Qty: ${nyxSelectedQty}).<br>
-            A secure checkout link has been dispatched to <strong>${email}</strong>.
-          </p>
-          <button type="button" class="merch-buy-btn" onclick="document.getElementById('merchModal').close()">Return to Nyx Voss</button>
-        </div>
-      `;
+        `;
+      }
     };
 
     render();

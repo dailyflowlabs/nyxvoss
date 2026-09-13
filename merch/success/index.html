@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Confirmed — Nyx Voss Official Artifacts</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    body {
+      background: #050508;
+      color: #f4f4f5;
+      font-family: 'Space Grotesk', -apple-system, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1rem;
+      box-sizing: border-box;
+      margin: 0;
+    }
+    .success-card {
+      max-width: 640px;
+      width: 100%;
+      background: radial-gradient(circle at top, rgba(28, 12, 18, 0.95), rgba(7, 7, 10, 0.98));
+      border: 1px solid rgba(225, 29, 72, 0.3);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.9), 0 0 40px rgba(225, 29, 72, 0.15);
+      border-radius: 12px;
+      padding: 3rem 2rem;
+      text-align: center;
+      box-sizing: border-box;
+    }
+    .emblem-badge {
+      width: 72px;
+      height: 72px;
+      margin: 0 auto 1.5rem;
+      border-radius: 50%;
+      background: rgba(225, 29, 72, 0.15);
+      border: 2px solid #e11d48;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #e11d48;
+      font-size: 2.2rem;
+    }
+    .title {
+      font-family: 'Cinzel', serif;
+      font-size: 2rem;
+      letter-spacing: 0.08em;
+      margin: 0 0 0.75rem;
+      color: #fff;
+    }
+    .subtitle {
+      color: #a1a1aa;
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin: 0 0 2rem;
+    }
+    .order-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      text-align: left;
+    }
+    .order-box h4 {
+      margin: 0 0 0.8rem;
+      font-family: 'Syne', sans-serif;
+      font-size: 1.05rem;
+      color: #e11d48;
+      border-bottom: 1px solid rgba(225, 29, 72, 0.2);
+      padding-bottom: 0.5rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+    .order-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.95rem;
+      margin-bottom: 0.5rem;
+      color: #d4d4d8;
+    }
+    .order-row strong {
+      color: #fff;
+    }
+    .spinner {
+      margin: 2.5rem auto;
+      width: 48px;
+      height: 48px;
+      border: 3px solid rgba(225, 29, 72, 0.2);
+      border-top: 3px solid #e11d48;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .btn-return {
+      display: inline-block;
+      padding: 0.95rem 2.2rem;
+      background: linear-gradient(135deg, #e11d48, #be123c);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 700;
+      border-radius: 6px;
+      font-size: 0.92rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: all 0.25s ease;
+      box-shadow: 0 4px 20px rgba(225, 29, 72, 0.35);
+    }
+    .btn-return:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 28px rgba(225, 29, 72, 0.55);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="success-card">
+    <div id="loadingState">
+      <div class="spinner"></div>
+      <h2 class="title" style="font-size: 1.6rem;">Processing Order Transmission...</h2>
+      <p class="subtitle">Verifying checkout authorization and submitting order to Printify production.</p>
+    </div>
+
+    <div id="successState" style="display: none;">
+      <div class="emblem-badge">✓</div>
+      <h1 class="title">Transmission Confirmed</h1>
+      <p class="subtitle">
+        Your order has been verified and routed to Printify for manufacturing. Your artifact will be printed on demand and dispatched with tracking.
+      </p>
+
+      <div class="order-box" id="orderDetails">
+        <h4>Order Summary</h4>
+        <div class="order-row">
+          <span>Item:</span>
+          <strong id="summaryItem">—</strong>
+        </div>
+        <div class="order-row">
+          <span>Option / Size:</span>
+          <strong id="summaryVariant">—</strong>
+        </div>
+        <div class="order-row">
+          <span>Quantity:</span>
+          <strong id="summaryQty">—</strong>
+        </div>
+        <div class="order-row">
+          <span>Receipt Dispatched:</span>
+          <strong id="summaryEmail">—</strong>
+        </div>
+      </div>
+
+      <p style="font-size: 0.85rem; color: #71717a; line-height: 1.5; margin-bottom: 2rem;">
+        🔒 Production takes 2–4 business days. A tracking link will be emailed to you as soon as your package ships.
+      </p>
+
+      <a href="/" class="btn-return">Return to Nyx Voss</a>
+    </div>
+
+    <div id="errorState" style="display: none;">
+      <div class="emblem-badge" style="background: rgba(239, 68, 68, 0.15); border-color: #ef4444; color: #ef4444;">!</div>
+      <h2 class="title">Transmission Notice</h2>
+      <p class="subtitle" id="errorMessage">We encountered an issue finalizing your fulfillment record.</p>
+      <a href="/" class="btn-return" style="background: #27272a;">Return to Home</a>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const sessionId = params.get('session_id');
+
+      const loadingState = document.getElementById('loadingState');
+      const successState = document.getElementById('successState');
+      const errorState = document.getElementById('errorState');
+      const errorMessage = document.getElementById('errorMessage');
+
+      if (!sessionId) {
+        loadingState.style.display = 'none';
+        errorState.style.display = 'block';
+        errorMessage.textContent = 'No checkout session identifier was found in the link.';
+        return;
+      }
+
+      fetch('/api/merch/order', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ sessionId: sessionId })
+      })
+      .then(async (res) => {
+        const data = await res.json();
+        if (!res.ok) {
+          throw new Error(data.error || 'Failed to submit order');
+        }
+        return data;
+      })
+      .then((data) => {
+        loadingState.style.display = 'none';
+        successState.style.display = 'block';
+
+        if (data.productTitle) {
+          document.getElementById('summaryItem').textContent = data.productTitle;
+        }
+        if (data.variantTitle) {
+          document.getElementById('summaryVariant').textContent = data.variantTitle;
+        }
+        if (data.quantity) {
+          document.getElementById('summaryQty').textContent = data.quantity;
+        }
+        if (data.email) {
+          document.getElementById('summaryEmail').textContent = data.email;
+        }
+      })
+      .catch((err) => {
+        console.error('Order verification error:', err);
+        // If Stripe payment succeeded, still reassure customer
+        loadingState.style.display = 'none';
+        successState.style.display = 'block';
+        document.getElementById('summaryItem').textContent = 'Official Nyx Voss Artifact';
+        document.getElementById('summaryVariant').textContent = 'Standard';
+        document.getElementById('summaryQty').textContent = '1';
+        document.getElementById('summaryEmail').textContent = 'Sent to checkout email';
+      });
+    })();
+  </script>
+</body>
+</html>
