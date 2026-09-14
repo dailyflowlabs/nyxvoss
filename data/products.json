@@ -1,6 +1,6 @@
 [
   {
-    "id": "6aa5bd35c2763c2ff201c2f3",
+    "id": "6aa7a43745e1a32cff069527",
     "title": "Nyx Voss - Nothing Soft Survives Ceramic Mug (11oz)",
     "description": "High gloss black accent ceramic mug with high definition print.",
     "tags": [
@@ -30,7 +30,7 @@
     "variants": [
       {
         "id": 33719,
-        "sku": "12872125628835682595",
+        "sku": "32059139074466286265",
         "cost": 644,
         "price": 1600,
         "title": "11oz",
@@ -47,8 +47,8 @@
     ],
     "images": [
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_6400_front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_6400_front",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front",
         "variant_ids": [
           33719
         ],
@@ -58,8 +58,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_6402_left",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6402/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=left",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_6402_left",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/6402/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=left",
         "variant_ids": [
           33719
         ],
@@ -69,8 +69,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_10395_right",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/10395/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=right",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_10395_right",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/10395/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=right",
         "variant_ids": [
           33719
         ],
@@ -80,8 +80,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_10393_context-1",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/10393/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-1",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_10393_context-1",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/10393/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-1",
         "variant_ids": [
           33719
         ],
@@ -91,8 +91,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_10394_context-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/10394/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-2",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_10394_context-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/10394/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-2",
         "variant_ids": [
           33719
         ],
@@ -102,8 +102,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd35c2763c2ff201c2f3_33719_6568_context-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6568/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-3",
+        "mockup_id": "6aa7a43745e1a32cff069527_33719_6568_context-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/6568/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=context-3",
         "variant_ids": [
           33719
         ],
@@ -113,13 +113,13 @@
         "order": null
       }
     ],
-    "created_at": "2026-09-12 20:59:33+00:00",
-    "updated_at": "2026-09-12 20:59:33+00:00",
+    "created_at": "2026-09-14 07:37:27+00:00",
+    "updated_at": "2026-09-14 07:37:36+00:00",
     "visible": true,
-    "is_locked": false,
+    "is_locked": true,
     "blueprint_id": 68,
     "user_id": 28198904,
-    "shop_id": 28919165,
+    "shop_id": 28933843,
     "print_provider_id": 1,
     "print_areas": [
       {
@@ -144,7 +144,7 @@
                 "angle": 0,
                 "src": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/28198904/32554235-3d47-469c-af94-1e8108c062ef",
                 "layerType": "image",
-                "imageId": "6aa5bd212d1053399ca1bc1f_c78d560e-377e-f047-c7b8-5a223924fb5b"
+                "imageId": "6aa5bd212d1053399ca1bc1f_19f48f65-b38c-f2f3-f5b0-51e862eaa8da"
               }
             ],
             "decoration_method": "dye-sublimation"
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "id": "6aa5bd3381bf80bae9088fbe",
+    "id": "6aa7a45c731b96c94d02de5d",
     "title": "Nyx Voss - Cathedral Seraph Archival Gothic Poster",
     "description": "Limited archival fine art gicl\u00e9e print. Official Cathedral Altar artwork.",
     "tags": [
@@ -400,7 +400,7 @@
     "variants": [
       {
         "id": 43163,
-        "sku": "89096145400882082892",
+        "sku": "30237796363188561740",
         "cost": 660,
         "price": 660,
         "title": "14\u2033 x 11\u2033 / Matte",
@@ -417,7 +417,7 @@
       },
       {
         "id": 43166,
-        "sku": "17300843532883220089",
+        "sku": "74972830956341624849",
         "cost": 1034,
         "price": 1034,
         "title": "18\u2033 x 12\u2033 / Matte",
@@ -434,7 +434,7 @@
       },
       {
         "id": 43169,
-        "sku": "24515881639583529170",
+        "sku": "13846385132477081109",
         "cost": 1200,
         "price": 1200,
         "title": "20\u2033 x 16\u2033 / Matte",
@@ -451,7 +451,7 @@
       },
       {
         "id": 43172,
-        "sku": "21893703062760497951",
+        "sku": "19765793408280100326",
         "cost": 1184,
         "price": 2400,
         "title": "24\u2033 x 18\u2033 / Matte",
@@ -468,7 +468,7 @@
       },
       {
         "id": 43175,
-        "sku": "24754643615275551543",
+        "sku": "55398444161727618685",
         "cost": 1380,
         "price": 1380,
         "title": "30\u2033 x 20\u2033 / Matte",
@@ -485,7 +485,7 @@
       },
       {
         "id": 43178,
-        "sku": "79652610662770419533",
+        "sku": "22428961690293210944",
         "cost": 1760,
         "price": 1760,
         "title": "36\u2033 x 24\u2033 / Matte",
@@ -502,7 +502,7 @@
       },
       {
         "id": 62100,
-        "sku": "11704019714413813102",
+        "sku": "33076925756094212042",
         "cost": 552,
         "price": 552,
         "title": "11\" x 9\" / Matte",
@@ -519,7 +519,7 @@
       },
       {
         "id": 101237,
-        "sku": "21041776416614974165",
+        "sku": "35735851547262083026",
         "cost": 786,
         "price": 786,
         "title": "10\u2033 x 10\u2033 / Matte",
@@ -536,7 +536,7 @@
       },
       {
         "id": 101238,
-        "sku": "19807047328690269030",
+        "sku": "20765333039738999626",
         "cost": 895,
         "price": 895,
         "title": "13\" x 10\" / Matte",
@@ -553,7 +553,7 @@
       },
       {
         "id": 101239,
-        "sku": "28143186534561047151",
+        "sku": "23832751977370762331",
         "cost": 895,
         "price": 895,
         "title": "16\" x 11\" / Matte",
@@ -570,7 +570,7 @@
       },
       {
         "id": 101240,
-        "sku": "21728004694027377240",
+        "sku": "29303667354401180476",
         "cost": 1042,
         "price": 1042,
         "title": "17\" x 10\" / Matte",
@@ -587,7 +587,7 @@
       },
       {
         "id": 101241,
-        "sku": "18981626628199141846",
+        "sku": "13805815895181460325",
         "cost": 895,
         "price": 895,
         "title": "17\" x 11\" / Matte",
@@ -604,7 +604,7 @@
       },
       {
         "id": 101242,
-        "sku": "15110910054204431541",
+        "sku": "72835176620849533415",
         "cost": 1042,
         "price": 1042,
         "title": "20\" x 10\" / Matte",
@@ -621,7 +621,7 @@
       },
       {
         "id": 101243,
-        "sku": "31008295400844187258",
+        "sku": "28133086679041811239",
         "cost": 1187,
         "price": 1187,
         "title": "22\" x 11\" / Matte",
@@ -638,7 +638,7 @@
       },
       {
         "id": 101245,
-        "sku": "61312194830453678653",
+        "sku": "13105726139197761300",
         "cost": 895,
         "price": 895,
         "title": "12\" x 12\" / Matte",
@@ -655,7 +655,7 @@
       },
       {
         "id": 101256,
-        "sku": "20140107221806225012",
+        "sku": "20896315332064244078",
         "cost": 1111,
         "price": 1111,
         "title": "16\" x 12\" / Matte",
@@ -672,7 +672,7 @@
       },
       {
         "id": 101257,
-        "sku": "29260928438492131536",
+        "sku": "11896788627117352969",
         "cost": 1187,
         "price": 1187,
         "title": "16\" x 16\" / Matte",
@@ -689,7 +689,7 @@
       },
       {
         "id": 101258,
-        "sku": "23898292242155705987",
+        "sku": "28474441337966672711",
         "cost": 1042,
         "price": 1042,
         "title": "18\" x 14\" / Matte",
@@ -706,7 +706,7 @@
       },
       {
         "id": 101259,
-        "sku": "42501268979733885212",
+        "sku": "22478498394510483641",
         "cost": 1042,
         "price": 1042,
         "title": "19\" x 13\" / Matte",
@@ -723,7 +723,7 @@
       },
       {
         "id": 101260,
-        "sku": "25236444525769997718",
+        "sku": "81169178184031790906",
         "cost": 1187,
         "price": 1187,
         "title": "20\" x 17\" / Matte",
@@ -740,7 +740,7 @@
       },
       {
         "id": 101261,
-        "sku": "94733661403006775522",
+        "sku": "29848909391771375985",
         "cost": 1314,
         "price": 1314,
         "title": "20\" x 20\" / Matte",
@@ -757,7 +757,7 @@
       },
       {
         "id": 101262,
-        "sku": "30438732616545899046",
+        "sku": "27907651477853453809",
         "cost": 1261,
         "price": 1261,
         "title": "23\" x 14\" / Matte",
@@ -774,7 +774,7 @@
       },
       {
         "id": 101263,
-        "sku": "23476621844283875716",
+        "sku": "13777765873313947038",
         "cost": 1314,
         "price": 1314,
         "title": "24\" x 16\" / Matte",
@@ -791,7 +791,7 @@
       },
       {
         "id": 101264,
-        "sku": "27131650543729708540",
+        "sku": "11581007539378003019",
         "cost": 2032,
         "price": 2032,
         "title": "24\" x 20\" / Matte",
@@ -808,7 +808,7 @@
       },
       {
         "id": 101265,
-        "sku": "29093448447607406544",
+        "sku": "26220481211783864787",
         "cost": 1396,
         "price": 1396,
         "title": "28\" x 20\" / Matte",
@@ -825,7 +825,7 @@
       },
       {
         "id": 101266,
-        "sku": "89672366862876829777",
+        "sku": "32442130987450699759",
         "cost": 1554,
         "price": 1554,
         "title": "28\" x 22\" / Matte",
@@ -842,7 +842,7 @@
       },
       {
         "id": 101267,
-        "sku": "19811856969827918968",
+        "sku": "24999378974875537500",
         "cost": 1383,
         "price": 1383,
         "title": "30\" x 15\" / Matte",
@@ -859,7 +859,7 @@
       },
       {
         "id": 101268,
-        "sku": "31442520513124337349",
+        "sku": "20179112008446009461",
         "cost": 1383,
         "price": 1383,
         "title": "30\" x 22\" / Matte",
@@ -876,7 +876,7 @@
       },
       {
         "id": 101269,
-        "sku": "12934253547893003563",
+        "sku": "17947651166366047717",
         "cost": 2483,
         "price": 2483,
         "title": "34\" x 22\" / Matte",
@@ -893,7 +893,7 @@
       },
       {
         "id": 101270,
-        "sku": "92738612145851067082",
+        "sku": "29446858933065154840",
         "cost": 2262,
         "price": 2262,
         "title": "40\" x 20\" / Matte",
@@ -910,7 +910,7 @@
       },
       {
         "id": 101271,
-        "sku": "14424004849200398463",
+        "sku": "21482476113134801116",
         "cost": 3651,
         "price": 3651,
         "title": "40\" x 27\" / Matte",
@@ -927,7 +927,7 @@
       },
       {
         "id": 101272,
-        "sku": "91453541243670058543",
+        "sku": "25023394139178151364",
         "cost": 3771,
         "price": 3771,
         "title": "40\" x 30\" / Matte",
@@ -944,7 +944,7 @@
       },
       {
         "id": 101273,
-        "sku": "13574859227698454912",
+        "sku": "62247118897457822233",
         "cost": 3134,
         "price": 3134,
         "title": "48\" x 24\" / Matte",
@@ -961,7 +961,7 @@
       },
       {
         "id": 101274,
-        "sku": "26459950961217332744",
+        "sku": "30387057400158389980",
         "cost": 3180,
         "price": 3180,
         "title": "48\" x 36\" / Matte",
@@ -978,7 +978,7 @@
       },
       {
         "id": 101275,
-        "sku": "34882282752053222275",
+        "sku": "27470056019829711976",
         "cost": 3327,
         "price": 3327,
         "title": "54\" x 36\" / Matte",
@@ -995,7 +995,7 @@
       },
       {
         "id": 101276,
-        "sku": "27593400969235618638",
+        "sku": "46729230574036178987",
         "cost": 1187,
         "price": 1187,
         "title": "18\" x 18\" / Matte",
@@ -1012,7 +1012,7 @@
       },
       {
         "id": 101277,
-        "sku": "20882601939634161867",
+        "sku": "13201840328236255978",
         "cost": 1481,
         "price": 1481,
         "title": "23\" x 23\" / Matte",
@@ -1029,7 +1029,7 @@
       },
       {
         "id": 101278,
-        "sku": "30528576867799918495",
+        "sku": "98330409166797332210",
         "cost": 1481,
         "price": 1481,
         "title": "24\" x 24\" / Matte",
@@ -1046,7 +1046,7 @@
       },
       {
         "id": 112756,
-        "sku": "12630026033178076127",
+        "sku": "14667672204372213247",
         "cost": 1396,
         "price": 1396,
         "title": "14\" x 14\" / Matte",
@@ -1063,7 +1063,7 @@
       },
       {
         "id": 112757,
-        "sku": "13549449334046902188",
+        "sku": "11460172863307521700",
         "cost": 3060,
         "price": 3060,
         "title": "28\" x 28\" / Matte",
@@ -1080,7 +1080,7 @@
       },
       {
         "id": 114558,
-        "sku": "36858603553862322534",
+        "sku": "20135992354787650733",
         "cost": 3580,
         "price": 3580,
         "title": "40\" x 28\" / Matte",
@@ -1097,7 +1097,7 @@
       },
       {
         "id": 114559,
-        "sku": "26401519636628836300",
+        "sku": "18632030164676661012",
         "cost": 1557,
         "price": 1557,
         "title": "24\" x 10\" / Matte",
@@ -1114,7 +1114,7 @@
       },
       {
         "id": 114560,
-        "sku": "20516989838488216234",
+        "sku": "77090060230767736454",
         "cost": 1259,
         "price": 1259,
         "title": "20\" x 8\" / Matte",
@@ -1131,7 +1131,7 @@
       },
       {
         "id": 114561,
-        "sku": "23452239515559496640",
+        "sku": "23576112129982301462",
         "cost": 974,
         "price": 974,
         "title": "12\" x 8\" / Matte",
@@ -1148,7 +1148,7 @@
       },
       {
         "id": 114562,
-        "sku": "10263298875590592048",
+        "sku": "14621246392307579298",
         "cost": 2525,
         "price": 2525,
         "title": "32\" x 24\" / Matte",
@@ -1165,7 +1165,7 @@
       },
       {
         "id": 114563,
-        "sku": "64674847045466407479",
+        "sku": "14345667030347752506",
         "cost": 919,
         "price": 919,
         "title": "10\" x 8\" / Matte",
@@ -1183,8 +1183,8 @@
     ],
     "images": [
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_94818_front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_94818_front",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front",
         "variant_ids": [
           43172
         ],
@@ -1194,8 +1194,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_94772_front-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/94772/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front-2",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_94772_front-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/94772/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front-2",
         "variant_ids": [
           43172
         ],
@@ -1205,8 +1205,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_99642_close-up",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/99642/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=close-up",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_99642_close-up",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/99642/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=close-up",
         "variant_ids": [
           43172
         ],
@@ -1216,8 +1216,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_95491_context-1",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/95491/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-1",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_95491_context-1",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/95491/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-1",
         "variant_ids": [
           43172
         ],
@@ -1227,8 +1227,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_95531_context-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/95531/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-2",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_95531_context-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/95531/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-2",
         "variant_ids": [
           43172
         ],
@@ -1238,8 +1238,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_95573_context-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/95573/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-3",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_95573_context-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/95573/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-3",
         "variant_ids": [
           43172
         ],
@@ -1249,8 +1249,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_95617_context-4",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/95617/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-4",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_95617_context-4",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/95617/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-4",
         "variant_ids": [
           43172
         ],
@@ -1260,8 +1260,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd3381bf80bae9088fbe_43172_95655_context-5",
-        "src": "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/95655/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-5",
+        "mockup_id": "6aa7a45c731b96c94d02de5d_43172_95655_context-5",
+        "src": "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/95655/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=context-5",
         "variant_ids": [
           43172
         ],
@@ -1271,13 +1271,13 @@
         "order": null
       }
     ],
-    "created_at": "2026-09-12 20:59:31+00:00",
-    "updated_at": "2026-09-12 20:59:31+00:00",
+    "created_at": "2026-09-14 07:38:04+00:00",
+    "updated_at": "2026-09-14 07:38:06+00:00",
     "visible": true,
-    "is_locked": false,
+    "is_locked": true,
     "blueprint_id": 284,
     "user_id": 28198904,
-    "shop_id": 28919165,
+    "shop_id": 28933843,
     "print_provider_id": 2,
     "print_areas": [
       {
@@ -1347,7 +1347,7 @@
                 "angle": 0,
                 "src": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/28198904/c53e89c2-f40f-41f5-9f7e-0f55767699b7",
                 "layerType": "image",
-                "imageId": "6aa5bd255650b168a1cf194a_b95651aa-bc32-b959-cad4-1538b3d2c92a"
+                "imageId": "6aa5bd255650b168a1cf194a_73204ce6-421e-290d-3689-de757eb34565"
               }
             ],
             "decoration_method": "digital-printing"
@@ -1432,7 +1432,7 @@
     ]
   },
   {
-    "id": "6aa5bd30b6bdffef520bd68a",
+    "id": "6aa7a47545e1a32cff069559",
     "title": "Nyx Voss - Nothing Soft Survives Heavyweight Fleece Hoodie",
     "description": "Official industrial gothic heavyweight fleece pullover hoodie in deep pitch black.",
     "tags": [
@@ -1569,7 +1569,7 @@
     "variants": [
       {
         "id": 32878,
-        "sku": "31516699392255006208",
+        "sku": "85188552973622257984",
         "cost": 2759,
         "price": 2759,
         "title": "Dark Heather / S",
@@ -1586,7 +1586,7 @@
       },
       {
         "id": 32879,
-        "sku": "13282881874204852642",
+        "sku": "11281849245540647640",
         "cost": 2759,
         "price": 2759,
         "title": "Dark Heather / M",
@@ -1603,7 +1603,7 @@
       },
       {
         "id": 32880,
-        "sku": "28363046265922370634",
+        "sku": "48424326299618665879",
         "cost": 2759,
         "price": 2759,
         "title": "Dark Heather / L",
@@ -1620,7 +1620,7 @@
       },
       {
         "id": 32881,
-        "sku": "21925660892301512022",
+        "sku": "25938129662575340314",
         "cost": 2759,
         "price": 2759,
         "title": "Dark Heather / XL",
@@ -1637,7 +1637,7 @@
       },
       {
         "id": 32882,
-        "sku": "16306797496905450532",
+        "sku": "85985053660941184723",
         "cost": 3786,
         "price": 3786,
         "title": "Dark Heather / 2XL",
@@ -1654,7 +1654,7 @@
       },
       {
         "id": 32883,
-        "sku": "29729649819061656947",
+        "sku": "25223954583582630365",
         "cost": 4267,
         "price": 4267,
         "title": "Dark Heather / 3XL",
@@ -1671,7 +1671,7 @@
       },
       {
         "id": 32894,
-        "sku": "23173200102842479657",
+        "sku": "23315944771296413331",
         "cost": 2759,
         "price": 2759,
         "title": "Navy / S",
@@ -1688,7 +1688,7 @@
       },
       {
         "id": 32895,
-        "sku": "16494328755856534259",
+        "sku": "90004146365284337775",
         "cost": 2759,
         "price": 2759,
         "title": "Navy / M",
@@ -1705,7 +1705,7 @@
       },
       {
         "id": 32896,
-        "sku": "19698902541611659787",
+        "sku": "24741727032347520899",
         "cost": 2759,
         "price": 2759,
         "title": "Navy / L",
@@ -1722,7 +1722,7 @@
       },
       {
         "id": 32897,
-        "sku": "19928621779422488035",
+        "sku": "10061341506729041601",
         "cost": 2759,
         "price": 2759,
         "title": "Navy / XL",
@@ -1739,7 +1739,7 @@
       },
       {
         "id": 32898,
-        "sku": "12676324503619854268",
+        "sku": "31878834997525368337",
         "cost": 3786,
         "price": 3786,
         "title": "Navy / 2XL",
@@ -1756,7 +1756,7 @@
       },
       {
         "id": 32899,
-        "sku": "21969747561916200929",
+        "sku": "20195897790091381888",
         "cost": 4267,
         "price": 4267,
         "title": "Navy / 3XL",
@@ -1773,7 +1773,7 @@
       },
       {
         "id": 32902,
-        "sku": "21009937054039112949",
+        "sku": "11263040765477053489",
         "cost": 2759,
         "price": 2759,
         "title": "Sport Grey / S",
@@ -1790,7 +1790,7 @@
       },
       {
         "id": 32903,
-        "sku": "23313868232230781698",
+        "sku": "28714867455789225514",
         "cost": 2759,
         "price": 2759,
         "title": "Sport Grey / M",
@@ -1807,7 +1807,7 @@
       },
       {
         "id": 32904,
-        "sku": "25047163791414704745",
+        "sku": "15057651386007982411",
         "cost": 2759,
         "price": 2759,
         "title": "Sport Grey / L",
@@ -1824,7 +1824,7 @@
       },
       {
         "id": 32905,
-        "sku": "12451904423919308161",
+        "sku": "30468458373949689897",
         "cost": 2759,
         "price": 2759,
         "title": "Sport Grey / XL",
@@ -1841,7 +1841,7 @@
       },
       {
         "id": 32906,
-        "sku": "23709867140566535491",
+        "sku": "53204316980633959910",
         "cost": 3786,
         "price": 3786,
         "title": "Sport Grey / 2XL",
@@ -1858,7 +1858,7 @@
       },
       {
         "id": 32907,
-        "sku": "30120636421308897807",
+        "sku": "14546007251928652864",
         "cost": 4267,
         "price": 4267,
         "title": "Sport Grey / 3XL",
@@ -1875,7 +1875,7 @@
       },
       {
         "id": 32910,
-        "sku": "19142302397724242430",
+        "sku": "18244585268674878439",
         "cost": 2759,
         "price": 2759,
         "title": "White / S",
@@ -1892,7 +1892,7 @@
       },
       {
         "id": 32911,
-        "sku": "25977515173111848510",
+        "sku": "30186885194827470038",
         "cost": 2759,
         "price": 2759,
         "title": "White / M",
@@ -1909,7 +1909,7 @@
       },
       {
         "id": 32912,
-        "sku": "76925096802489550377",
+        "sku": "14607234225448000515",
         "cost": 2759,
         "price": 2759,
         "title": "White / L",
@@ -1926,7 +1926,7 @@
       },
       {
         "id": 32913,
-        "sku": "12174633809768282674",
+        "sku": "28021150603174266163",
         "cost": 2759,
         "price": 2759,
         "title": "White / XL",
@@ -1943,7 +1943,7 @@
       },
       {
         "id": 32914,
-        "sku": "24829481169508645840",
+        "sku": "22165481533942314702",
         "cost": 3786,
         "price": 3786,
         "title": "White / 2XL",
@@ -1960,7 +1960,7 @@
       },
       {
         "id": 32915,
-        "sku": "27344015517261460959",
+        "sku": "63875220206801107551",
         "cost": 4267,
         "price": 4267,
         "title": "White / 3XL",
@@ -1977,7 +1977,7 @@
       },
       {
         "id": 32918,
-        "sku": "25012069252932343910",
+        "sku": "35414266625159024046",
         "cost": 2759,
         "price": 5800,
         "title": "Black / S",
@@ -1994,7 +1994,7 @@
       },
       {
         "id": 32919,
-        "sku": "27292184387047013100",
+        "sku": "10282639811996275955",
         "cost": 2759,
         "price": 5800,
         "title": "Black / M",
@@ -2011,7 +2011,7 @@
       },
       {
         "id": 32920,
-        "sku": "16290908881713009624",
+        "sku": "93328799649647595247",
         "cost": 2759,
         "price": 5800,
         "title": "Black / L",
@@ -2028,7 +2028,7 @@
       },
       {
         "id": 32921,
-        "sku": "67041032079911387094",
+        "sku": "32007733082315239328",
         "cost": 2759,
         "price": 5800,
         "title": "Black / XL",
@@ -2045,7 +2045,7 @@
       },
       {
         "id": 32922,
-        "sku": "21880349998062681772",
+        "sku": "75487587910699559344",
         "cost": 3786,
         "price": 6200,
         "title": "Black / 2XL",
@@ -2062,7 +2062,7 @@
       },
       {
         "id": 32923,
-        "sku": "21578234607877105932",
+        "sku": "18419976153895845184",
         "cost": 4267,
         "price": 6400,
         "title": "Black / 3XL",
@@ -2079,7 +2079,7 @@
       },
       {
         "id": 33361,
-        "sku": "21015266481570658829",
+        "sku": "76364841292029012427",
         "cost": 2759,
         "price": 2759,
         "title": "Heliconia / S",
@@ -2096,7 +2096,7 @@
       },
       {
         "id": 33362,
-        "sku": "12138543832455512443",
+        "sku": "14791152897177315591",
         "cost": 2759,
         "price": 2759,
         "title": "Heliconia / M",
@@ -2113,7 +2113,7 @@
       },
       {
         "id": 33363,
-        "sku": "13696017189007872188",
+        "sku": "85951682175721272161",
         "cost": 2759,
         "price": 2759,
         "title": "Heliconia / L",
@@ -2130,7 +2130,7 @@
       },
       {
         "id": 33364,
-        "sku": "22428620866648023699",
+        "sku": "22933660026522088513",
         "cost": 2759,
         "price": 2759,
         "title": "Heliconia / XL",
@@ -2147,7 +2147,7 @@
       },
       {
         "id": 33365,
-        "sku": "23678027250603431545",
+        "sku": "19874210951159286661",
         "cost": 3786,
         "price": 3786,
         "title": "Heliconia / 2XL",
@@ -2164,7 +2164,7 @@
       },
       {
         "id": 33366,
-        "sku": "26766342795351207862",
+        "sku": "33543104371640616383",
         "cost": 4267,
         "price": 4267,
         "title": "Heliconia / 3XL",
@@ -2181,7 +2181,7 @@
       },
       {
         "id": 33385,
-        "sku": "34087477649721524915",
+        "sku": "28004024222416528478",
         "cost": 2759,
         "price": 2759,
         "title": "Red / S",
@@ -2198,7 +2198,7 @@
       },
       {
         "id": 33386,
-        "sku": "18918855220339449134",
+        "sku": "27181595850587166619",
         "cost": 2759,
         "price": 2759,
         "title": "Red / M",
@@ -2215,7 +2215,7 @@
       },
       {
         "id": 33387,
-        "sku": "22685595822448431684",
+        "sku": "43321797467884664026",
         "cost": 2759,
         "price": 2759,
         "title": "Red / L",
@@ -2232,7 +2232,7 @@
       },
       {
         "id": 33388,
-        "sku": "27046042273125799943",
+        "sku": "30984920929057639828",
         "cost": 2759,
         "price": 2759,
         "title": "Red / XL",
@@ -2249,7 +2249,7 @@
       },
       {
         "id": 33389,
-        "sku": "13412866992115912438",
+        "sku": "20989606917913105848",
         "cost": 3786,
         "price": 3786,
         "title": "Red / 2XL",
@@ -2266,7 +2266,7 @@
       },
       {
         "id": 33390,
-        "sku": "87127274774985300977",
+        "sku": "28714675775536814544",
         "cost": 4267,
         "price": 4267,
         "title": "Red / 3XL",
@@ -2283,7 +2283,7 @@
       },
       {
         "id": 33393,
-        "sku": "51563675424520416916",
+        "sku": "42966376015913204777",
         "cost": 2759,
         "price": 2759,
         "title": "Royal / S",
@@ -2300,7 +2300,7 @@
       },
       {
         "id": 33394,
-        "sku": "19861099921265430998",
+        "sku": "33405418537977175593",
         "cost": 2759,
         "price": 2759,
         "title": "Royal / M",
@@ -2317,7 +2317,7 @@
       },
       {
         "id": 33395,
-        "sku": "26458504712382257810",
+        "sku": "11583110884711531689",
         "cost": 2759,
         "price": 2759,
         "title": "Royal / L",
@@ -2334,7 +2334,7 @@
       },
       {
         "id": 33396,
-        "sku": "11693794860632731707",
+        "sku": "24596412945638082244",
         "cost": 2759,
         "price": 2759,
         "title": "Royal / XL",
@@ -2351,7 +2351,7 @@
       },
       {
         "id": 33397,
-        "sku": "32908112559805540166",
+        "sku": "25770478730513497515",
         "cost": 3786,
         "price": 3786,
         "title": "Royal / 2XL",
@@ -2368,7 +2368,7 @@
       },
       {
         "id": 33398,
-        "sku": "87008663222041385524",
+        "sku": "11900144549496185363",
         "cost": 4267,
         "price": 4267,
         "title": "Royal / 3XL",
@@ -2385,7 +2385,7 @@
       },
       {
         "id": 42164,
-        "sku": "20704209575404707316",
+        "sku": "15742859543120058423",
         "cost": 2759,
         "price": 2759,
         "title": "Sand / S",
@@ -2402,7 +2402,7 @@
       },
       {
         "id": 42165,
-        "sku": "32247905845032234543",
+        "sku": "22493646951179045198",
         "cost": 2759,
         "price": 2759,
         "title": "Sand / M",
@@ -2419,7 +2419,7 @@
       },
       {
         "id": 42166,
-        "sku": "24854360719598374684",
+        "sku": "37746041154251166143",
         "cost": 2759,
         "price": 2759,
         "title": "Sand / L",
@@ -2436,7 +2436,7 @@
       },
       {
         "id": 42167,
-        "sku": "25479463207406488512",
+        "sku": "24240962070582479275",
         "cost": 2759,
         "price": 2759,
         "title": "Sand / XL",
@@ -2453,7 +2453,7 @@
       },
       {
         "id": 42168,
-        "sku": "25586889853424140501",
+        "sku": "22811310956399674854",
         "cost": 3786,
         "price": 3786,
         "title": "Sand / 2XL",
@@ -2470,7 +2470,7 @@
       },
       {
         "id": 42169,
-        "sku": "25104916571251240992",
+        "sku": "28115587846260594772",
         "cost": 4267,
         "price": 4267,
         "title": "Sand / 3XL",
@@ -2487,7 +2487,7 @@
       },
       {
         "id": 42259,
-        "sku": "28045772327619952962",
+        "sku": "10333423139493090931",
         "cost": 2759,
         "price": 2759,
         "title": "Gold / S",
@@ -2504,7 +2504,7 @@
       },
       {
         "id": 42260,
-        "sku": "27446253674003529542",
+        "sku": "33641104892152457563",
         "cost": 2759,
         "price": 2759,
         "title": "Gold / M",
@@ -2521,7 +2521,7 @@
       },
       {
         "id": 42261,
-        "sku": "23281724635506069572",
+        "sku": "28833188146219847845",
         "cost": 2759,
         "price": 2759,
         "title": "Gold / L",
@@ -2538,7 +2538,7 @@
       },
       {
         "id": 42262,
-        "sku": "30743704707138021468",
+        "sku": "24266395564772133798",
         "cost": 2759,
         "price": 2759,
         "title": "Gold / XL",
@@ -2555,7 +2555,7 @@
       },
       {
         "id": 42263,
-        "sku": "19743227194962390436",
+        "sku": "21041794328562225091",
         "cost": 3786,
         "price": 3786,
         "title": "Gold / 2XL",
@@ -2572,7 +2572,7 @@
       },
       {
         "id": 42264,
-        "sku": "17528746912641911239",
+        "sku": "30815673414847131068",
         "cost": 4267,
         "price": 4267,
         "title": "Gold / 3XL",
@@ -2589,7 +2589,7 @@
       },
       {
         "id": 64689,
-        "sku": "23372810403818210975",
+        "sku": "14214626233134186643",
         "cost": 2759,
         "price": 2759,
         "title": "Azalea / S",
@@ -2606,7 +2606,7 @@
       },
       {
         "id": 64690,
-        "sku": "31626882871145663090",
+        "sku": "22128005037955518312",
         "cost": 2759,
         "price": 2759,
         "title": "Azalea / M",
@@ -2623,7 +2623,7 @@
       },
       {
         "id": 64691,
-        "sku": "29961604857533864148",
+        "sku": "57493479216516303066",
         "cost": 2759,
         "price": 2759,
         "title": "Azalea / L",
@@ -2640,7 +2640,7 @@
       },
       {
         "id": 64692,
-        "sku": "57460092330986885560",
+        "sku": "31036180179491921678",
         "cost": 2759,
         "price": 2759,
         "title": "Azalea / XL",
@@ -2657,7 +2657,7 @@
       },
       {
         "id": 64693,
-        "sku": "26925712814550669466",
+        "sku": "23909112915091057308",
         "cost": 3786,
         "price": 3786,
         "title": "Azalea / 2XL",
@@ -2674,7 +2674,7 @@
       },
       {
         "id": 64694,
-        "sku": "67431587177110623723",
+        "sku": "22331583543573965767",
         "cost": 4267,
         "price": 4267,
         "title": "Azalea / 3XL",
@@ -2692,8 +2692,8 @@
     ],
     "images": [
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98424_front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98424_front",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front",
         "variant_ids": [
           32918,
           32919,
@@ -2708,8 +2708,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98425_back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98425/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=back",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98425_back",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98425/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=back",
         "variant_ids": [
           32918,
           32919,
@@ -2724,8 +2724,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98426_back-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98426/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=back-2",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98426_back-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98426/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=back-2",
         "variant_ids": [
           32918,
           32919,
@@ -2740,8 +2740,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98432_folded",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98432/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=folded",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98432_folded",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98432/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=folded",
         "variant_ids": [
           32918,
           32919,
@@ -2756,8 +2756,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_100685_front-collar-closeup",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/100685/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front-collar-closeup",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_100685_front-collar-closeup",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/100685/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front-collar-closeup",
         "variant_ids": [
           32918,
           32919,
@@ -2772,8 +2772,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_127738_front-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/127738/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front-2",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_127738_front-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/127738/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front-2",
         "variant_ids": [
           32918,
           32919,
@@ -2788,8 +2788,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_127688_lifestyle-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/127688/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=lifestyle-2",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_127688_lifestyle-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/127688/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=lifestyle-2",
         "variant_ids": [
           32918,
           32919,
@@ -2804,8 +2804,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98427_person-1",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98427/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-1",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98427_person-1",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98427/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-1",
         "variant_ids": [
           32918,
           32919,
@@ -2820,8 +2820,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98428_person-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98428/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-2",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98428_person-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98428/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-2",
         "variant_ids": [
           32918,
           32919,
@@ -2836,8 +2836,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98429_person-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98429/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-3",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98429_person-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98429/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-3",
         "variant_ids": [
           32918,
           32919,
@@ -2852,8 +2852,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_98430_person-4",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98430/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-4",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_98430_person-4",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98430/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-4",
         "variant_ids": [
           32918,
           32919,
@@ -2868,8 +2868,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_100682_person-4-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/100682/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-4-back",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_100682_person-4-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/100682/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-4-back",
         "variant_ids": [
           32918,
           32919,
@@ -2884,8 +2884,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_100683_person-5-right-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/100683/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-5-right-sleeve",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_100683_person-5-right-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/100683/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-5-right-sleeve",
         "variant_ids": [
           32918,
           32919,
@@ -2900,8 +2900,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_100684_person-5-left-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/100684/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-5-left-sleeve",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_100684_person-5-left-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/100684/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-5-left-sleeve",
         "variant_ids": [
           32918,
           32919,
@@ -2916,8 +2916,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_111847_person-6-front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/111847/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-6-front",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_111847_person-6-front",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/111847/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-6-front",
         "variant_ids": [
           32918,
           32919,
@@ -2932,8 +2932,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_111848_person-6-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/111848/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-6-back",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_111848_person-6-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/111848/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=person-6-back",
         "variant_ids": [
           32918,
           32919,
@@ -2948,8 +2948,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_102766_lifestyle",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/102766/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=lifestyle",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_102766_lifestyle",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/102766/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=lifestyle",
         "variant_ids": [
           32918,
           32919,
@@ -2964,8 +2964,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd30b6bdffef520bd68a_32920_110151_size-chart",
-        "src": "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/110151/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=size-chart",
+        "mockup_id": "6aa7a47545e1a32cff069559_32920_110151_size-chart",
+        "src": "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/110151/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=size-chart",
         "variant_ids": [
           32918,
           32919,
@@ -2980,13 +2980,13 @@
         "order": null
       }
     ],
-    "created_at": "2026-09-12 20:59:28+00:00",
-    "updated_at": "2026-09-12 20:59:28+00:00",
+    "created_at": "2026-09-14 07:38:29+00:00",
+    "updated_at": "2026-09-14 07:38:29+00:00",
     "visible": true,
     "is_locked": false,
     "blueprint_id": 77,
     "user_id": 28198904,
-    "shop_id": 28919165,
+    "shop_id": 28933843,
     "print_provider_id": 50,
     "print_areas": [
       {
@@ -3076,7 +3076,7 @@
                 "angle": 0,
                 "src": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/28198904/32554235-3d47-469c-af94-1e8108c062ef",
                 "layerType": "image",
-                "imageId": "6aa5bd212d1053399ca1bc1f_15fa7699-fa58-8006-6849-c7ea9a8c8744"
+                "imageId": "6aa5bd212d1053399ca1bc1f_5d33d5b2-fd1e-7eb6-525e-2a6ecc779e1e"
               }
             ],
             "decoration_method": "dtg"
@@ -4602,7 +4602,7 @@
     ]
   },
   {
-    "id": "6aa5bd2cfeeb21d8740fad16",
+    "id": "6aa7a49b00e348554207daf3",
     "title": "Nyx Voss - Nothing Soft Survives Heavyweight Band Tee",
     "description": "Official gothic industrial band tee. 100% combed ringspun cotton in pitch black.",
     "tags": [
@@ -4782,7 +4782,7 @@
     "variants": [
       {
         "id": 18068,
-        "sku": "26156819720456752023",
+        "sku": "63237617018447630018",
         "cost": 1858,
         "price": 1858,
         "title": "Asphalt / S",
@@ -4799,7 +4799,7 @@
       },
       {
         "id": 18069,
-        "sku": "13035546762290059653",
+        "sku": "85218125785256334501",
         "cost": 1858,
         "price": 1858,
         "title": "Asphalt / M",
@@ -4816,7 +4816,7 @@
       },
       {
         "id": 18070,
-        "sku": "27111130272518796548",
+        "sku": "31049514191657321351",
         "cost": 1858,
         "price": 1858,
         "title": "Asphalt / L",
@@ -4833,7 +4833,7 @@
       },
       {
         "id": 18071,
-        "sku": "12709499960103180142",
+        "sku": "19973619082936492848",
         "cost": 1858,
         "price": 1858,
         "title": "Asphalt / XL",
@@ -4850,7 +4850,7 @@
       },
       {
         "id": 18072,
-        "sku": "79283607278178391526",
+        "sku": "60784541785997225021",
         "cost": 2217,
         "price": 2217,
         "title": "Asphalt / 2XL",
@@ -4867,7 +4867,7 @@
       },
       {
         "id": 18073,
-        "sku": "25431933002422768418",
+        "sku": "97454760587149829463",
         "cost": 2483,
         "price": 2483,
         "title": "Asphalt / 3XL",
@@ -4884,7 +4884,7 @@
       },
       {
         "id": 18084,
-        "sku": "65139480157319462302",
+        "sku": "20160589266598122944",
         "cost": 1858,
         "price": 1858,
         "title": "Baby Blue / S",
@@ -4901,7 +4901,7 @@
       },
       {
         "id": 18085,
-        "sku": "18028810374089135343",
+        "sku": "10832816675335566275",
         "cost": 1858,
         "price": 1858,
         "title": "Baby Blue / M",
@@ -4918,7 +4918,7 @@
       },
       {
         "id": 18086,
-        "sku": "30480891671200036367",
+        "sku": "11338104060433225589",
         "cost": 1858,
         "price": 1858,
         "title": "Baby Blue / L",
@@ -4935,7 +4935,7 @@
       },
       {
         "id": 18087,
-        "sku": "11697114178675765964",
+        "sku": "11892499261110639788",
         "cost": 1858,
         "price": 1858,
         "title": "Baby Blue / XL",
@@ -4952,7 +4952,7 @@
       },
       {
         "id": 18088,
-        "sku": "12628008514612634715",
+        "sku": "19360547786364596731",
         "cost": 2217,
         "price": 2217,
         "title": "Baby Blue / 2XL",
@@ -4969,7 +4969,7 @@
       },
       {
         "id": 18089,
-        "sku": "61679840050434611765",
+        "sku": "15748476204650144978",
         "cost": 2483,
         "price": 2483,
         "title": "Baby Blue / 3XL",
@@ -4986,7 +4986,7 @@
       },
       {
         "id": 18100,
-        "sku": "13647869258715381682",
+        "sku": "26732641339801055274",
         "cost": 1858,
         "price": 3400,
         "title": "Black / S",
@@ -5003,7 +5003,7 @@
       },
       {
         "id": 18101,
-        "sku": "16015103293661372701",
+        "sku": "22525597084628176347",
         "cost": 1858,
         "price": 3400,
         "title": "Black / M",
@@ -5020,7 +5020,7 @@
       },
       {
         "id": 18102,
-        "sku": "30215830995818529221",
+        "sku": "31084997317797945631",
         "cost": 1858,
         "price": 3400,
         "title": "Black / L",
@@ -5037,7 +5037,7 @@
       },
       {
         "id": 18103,
-        "sku": "33046471899867031673",
+        "sku": "97423346019456109819",
         "cost": 1858,
         "price": 3400,
         "title": "Black / XL",
@@ -5054,7 +5054,7 @@
       },
       {
         "id": 18104,
-        "sku": "18928806455452049893",
+        "sku": "11445717970766739472",
         "cost": 2217,
         "price": 3400,
         "title": "Black / 2XL",
@@ -5071,7 +5071,7 @@
       },
       {
         "id": 18105,
-        "sku": "41893290694285680865",
+        "sku": "27671777528268483133",
         "cost": 2483,
         "price": 3600,
         "title": "Black / 3XL",
@@ -5088,7 +5088,7 @@
       },
       {
         "id": 18140,
-        "sku": "17542689783470328688",
+        "sku": "22522257990372353210",
         "cost": 1858,
         "price": 1858,
         "title": "Dark Grey / S",
@@ -5105,7 +5105,7 @@
       },
       {
         "id": 18141,
-        "sku": "40781532564011505415",
+        "sku": "26586700561508868584",
         "cost": 1858,
         "price": 1858,
         "title": "Dark Grey / M",
@@ -5122,7 +5122,7 @@
       },
       {
         "id": 18142,
-        "sku": "24418001918693056206",
+        "sku": "10383476478663496197",
         "cost": 1858,
         "price": 1858,
         "title": "Dark Grey / L",
@@ -5139,7 +5139,7 @@
       },
       {
         "id": 18143,
-        "sku": "15887004976169070854",
+        "sku": "22393744771430244441",
         "cost": 1858,
         "price": 1858,
         "title": "Dark Grey / XL",
@@ -5156,7 +5156,7 @@
       },
       {
         "id": 18144,
-        "sku": "24924638588082034713",
+        "sku": "13774884165227673370",
         "cost": 2217,
         "price": 2217,
         "title": "Dark Grey / 2XL",
@@ -5173,7 +5173,7 @@
       },
       {
         "id": 18145,
-        "sku": "16805601401603768440",
+        "sku": "12981279069662746755",
         "cost": 2483,
         "price": 2483,
         "title": "Dark Grey / 3XL",
@@ -5190,7 +5190,7 @@
       },
       {
         "id": 18180,
-        "sku": "31171460373540102007",
+        "sku": "24025566291221078569",
         "cost": 1858,
         "price": 1858,
         "title": "Forest / S",
@@ -5207,7 +5207,7 @@
       },
       {
         "id": 18181,
-        "sku": "13013049484362615007",
+        "sku": "58408498413839904926",
         "cost": 1858,
         "price": 1858,
         "title": "Forest / M",
@@ -5224,7 +5224,7 @@
       },
       {
         "id": 18182,
-        "sku": "12393133733106502402",
+        "sku": "20523424007715061887",
         "cost": 1858,
         "price": 1858,
         "title": "Forest / L",
@@ -5241,7 +5241,7 @@
       },
       {
         "id": 18183,
-        "sku": "29416492007942632474",
+        "sku": "32573823256395498228",
         "cost": 1858,
         "price": 1858,
         "title": "Forest / XL",
@@ -5258,7 +5258,7 @@
       },
       {
         "id": 18184,
-        "sku": "19088986318041858727",
+        "sku": "75972846392155504871",
         "cost": 2217,
         "price": 2217,
         "title": "Forest / 2XL",
@@ -5275,7 +5275,7 @@
       },
       {
         "id": 18185,
-        "sku": "16834307417386721557",
+        "sku": "70651482796138175922",
         "cost": 2483,
         "price": 2483,
         "title": "Forest / 3XL",
@@ -5292,7 +5292,7 @@
       },
       {
         "id": 18340,
-        "sku": "25923150552708445310",
+        "sku": "97221021373106580177",
         "cost": 1858,
         "price": 1858,
         "title": "Kelly / S",
@@ -5309,7 +5309,7 @@
       },
       {
         "id": 18341,
-        "sku": "50742980047235416628",
+        "sku": "11581212405814408309",
         "cost": 1858,
         "price": 1858,
         "title": "Kelly / M",
@@ -5326,7 +5326,7 @@
       },
       {
         "id": 18342,
-        "sku": "10291188968524105535",
+        "sku": "29431500747105024081",
         "cost": 1858,
         "price": 1858,
         "title": "Kelly / L",
@@ -5343,7 +5343,7 @@
       },
       {
         "id": 18343,
-        "sku": "94174786666903942391",
+        "sku": "25448549972664925209",
         "cost": 1858,
         "price": 1858,
         "title": "Kelly / XL",
@@ -5360,7 +5360,7 @@
       },
       {
         "id": 18344,
-        "sku": "59696032381082634520",
+        "sku": "19128098924384432984",
         "cost": 2217,
         "price": 2217,
         "title": "Kelly / 2XL",
@@ -5377,7 +5377,7 @@
       },
       {
         "id": 18345,
-        "sku": "56719718336199701677",
+        "sku": "32348164347012157696",
         "cost": 2483,
         "price": 2483,
         "title": "Kelly / 3XL",
@@ -5394,7 +5394,7 @@
       },
       {
         "id": 18372,
-        "sku": "92836983234073780984",
+        "sku": "82786493539888581611",
         "cost": 1858,
         "price": 1858,
         "title": "Maroon / S",
@@ -5411,7 +5411,7 @@
       },
       {
         "id": 18373,
-        "sku": "31691703813600796870",
+        "sku": "59524393975035133084",
         "cost": 1858,
         "price": 1858,
         "title": "Maroon / M",
@@ -5428,7 +5428,7 @@
       },
       {
         "id": 18374,
-        "sku": "45264975237325186441",
+        "sku": "18370733130928130737",
         "cost": 1858,
         "price": 1858,
         "title": "Maroon / L",
@@ -5445,7 +5445,7 @@
       },
       {
         "id": 18375,
-        "sku": "31429162808404570226",
+        "sku": "18125691508551604700",
         "cost": 1858,
         "price": 1858,
         "title": "Maroon / XL",
@@ -5462,7 +5462,7 @@
       },
       {
         "id": 18376,
-        "sku": "47552129440697783145",
+        "sku": "11437078101312902056",
         "cost": 2217,
         "price": 2217,
         "title": "Maroon / 2XL",
@@ -5479,7 +5479,7 @@
       },
       {
         "id": 18377,
-        "sku": "15496173197525861971",
+        "sku": "12851179731738887428",
         "cost": 2483,
         "price": 2483,
         "title": "Maroon / 3XL",
@@ -5496,7 +5496,7 @@
       },
       {
         "id": 18396,
-        "sku": "28842020228687722323",
+        "sku": "18319024055609634661",
         "cost": 1858,
         "price": 1858,
         "title": "Navy / S",
@@ -5513,7 +5513,7 @@
       },
       {
         "id": 18397,
-        "sku": "25635269719163355464",
+        "sku": "10391546627292461704",
         "cost": 1858,
         "price": 1858,
         "title": "Navy / M",
@@ -5530,7 +5530,7 @@
       },
       {
         "id": 18398,
-        "sku": "16944335172472636538",
+        "sku": "17707541376666199725",
         "cost": 1858,
         "price": 1858,
         "title": "Navy / L",
@@ -5547,7 +5547,7 @@
       },
       {
         "id": 18399,
-        "sku": "40995729937864543432",
+        "sku": "25075749132319721400",
         "cost": 1858,
         "price": 1858,
         "title": "Navy / XL",
@@ -5564,7 +5564,7 @@
       },
       {
         "id": 18400,
-        "sku": "13147680243990771029",
+        "sku": "28133242303760093948",
         "cost": 2217,
         "price": 2217,
         "title": "Navy / 2XL",
@@ -5581,7 +5581,7 @@
       },
       {
         "id": 18401,
-        "sku": "18405049872735682883",
+        "sku": "16961576468059081278",
         "cost": 2483,
         "price": 2483,
         "title": "Navy / 3XL",
@@ -5598,7 +5598,7 @@
       },
       {
         "id": 18412,
-        "sku": "26689591429660157971",
+        "sku": "13674510953656083059",
         "cost": 1858,
         "price": 1858,
         "title": "Olive / S",
@@ -5615,7 +5615,7 @@
       },
       {
         "id": 18413,
-        "sku": "98884712827598658030",
+        "sku": "31142973361281468351",
         "cost": 1858,
         "price": 1858,
         "title": "Olive / M",
@@ -5632,7 +5632,7 @@
       },
       {
         "id": 18414,
-        "sku": "13298510065716802335",
+        "sku": "67299149880613999691",
         "cost": 1858,
         "price": 1858,
         "title": "Olive / L",
@@ -5649,7 +5649,7 @@
       },
       {
         "id": 18415,
-        "sku": "28597635669606031733",
+        "sku": "21333582129105275222",
         "cost": 1858,
         "price": 1858,
         "title": "Olive / XL",
@@ -5666,7 +5666,7 @@
       },
       {
         "id": 18416,
-        "sku": "14625077758252897186",
+        "sku": "26385538302173596693",
         "cost": 2217,
         "price": 2217,
         "title": "Olive / 2XL",
@@ -5683,7 +5683,7 @@
       },
       {
         "id": 18417,
-        "sku": "22222927342688775079",
+        "sku": "19137143250284447023",
         "cost": 2483,
         "price": 2483,
         "title": "Olive / 3XL",
@@ -5700,7 +5700,7 @@
       },
       {
         "id": 18420,
-        "sku": "88759405290367078846",
+        "sku": "14814149297076965454",
         "cost": 1858,
         "price": 1858,
         "title": "Orange / S",
@@ -5717,7 +5717,7 @@
       },
       {
         "id": 18421,
-        "sku": "34014271524501827320",
+        "sku": "24828715574489990181",
         "cost": 1858,
         "price": 1858,
         "title": "Orange / M",
@@ -5734,7 +5734,7 @@
       },
       {
         "id": 18422,
-        "sku": "11213825845597639787",
+        "sku": "25221213869016307542",
         "cost": 1858,
         "price": 1858,
         "title": "Orange / L",
@@ -5751,7 +5751,7 @@
       },
       {
         "id": 18423,
-        "sku": "30473899091225938409",
+        "sku": "19740366495292272508",
         "cost": 1858,
         "price": 1858,
         "title": "Orange / XL",
@@ -5768,7 +5768,7 @@
       },
       {
         "id": 18424,
-        "sku": "12337688427164616770",
+        "sku": "18369534453780410352",
         "cost": 2217,
         "price": 2217,
         "title": "Orange / 2XL",
@@ -5785,7 +5785,7 @@
       },
       {
         "id": 18425,
-        "sku": "30576153475249209878",
+        "sku": "25024387884400571963",
         "cost": 2483,
         "price": 2483,
         "title": "Orange / 3XL",
@@ -5802,7 +5802,7 @@
       },
       {
         "id": 18436,
-        "sku": "43524589318212839027",
+        "sku": "30121936077460630900",
         "cost": 1858,
         "price": 1858,
         "title": "Pink / S",
@@ -5819,7 +5819,7 @@
       },
       {
         "id": 18437,
-        "sku": "41637876914281301848",
+        "sku": "23253888014294497285",
         "cost": 1858,
         "price": 1858,
         "title": "Pink / M",
@@ -5836,7 +5836,7 @@
       },
       {
         "id": 18438,
-        "sku": "28047237150713618281",
+        "sku": "26405147697846368117",
         "cost": 1858,
         "price": 1858,
         "title": "Pink / L",
@@ -5853,7 +5853,7 @@
       },
       {
         "id": 18439,
-        "sku": "28576053230021888024",
+        "sku": "19113262809981656405",
         "cost": 1858,
         "price": 1858,
         "title": "Pink / XL",
@@ -5870,7 +5870,7 @@
       },
       {
         "id": 18440,
-        "sku": "22238805547012691259",
+        "sku": "99388345467799484432",
         "cost": 2217,
         "price": 2217,
         "title": "Pink / 2XL",
@@ -5887,7 +5887,7 @@
       },
       {
         "id": 18441,
-        "sku": "11314486565309271847",
+        "sku": "16635590723979621208",
         "cost": 2483,
         "price": 2483,
         "title": "Pink / 3XL",
@@ -5904,7 +5904,7 @@
       },
       {
         "id": 18444,
-        "sku": "13659065253070736291",
+        "sku": "27324744029405020655",
         "cost": 1858,
         "price": 1858,
         "title": "Red / S",
@@ -5921,7 +5921,7 @@
       },
       {
         "id": 18445,
-        "sku": "10473992455247509928",
+        "sku": "19978139790151857445",
         "cost": 1858,
         "price": 1858,
         "title": "Red / M",
@@ -5938,7 +5938,7 @@
       },
       {
         "id": 18446,
-        "sku": "38724191878420748150",
+        "sku": "96962009268197884114",
         "cost": 1858,
         "price": 1858,
         "title": "Red / L",
@@ -5955,7 +5955,7 @@
       },
       {
         "id": 18447,
-        "sku": "94628140366013942242",
+        "sku": "16245218188964969181",
         "cost": 1858,
         "price": 1858,
         "title": "Red / XL",
@@ -5972,7 +5972,7 @@
       },
       {
         "id": 18448,
-        "sku": "28120010192426250992",
+        "sku": "25304355645939172298",
         "cost": 2217,
         "price": 2217,
         "title": "Red / 2XL",
@@ -5989,7 +5989,7 @@
       },
       {
         "id": 18449,
-        "sku": "20245640857722413483",
+        "sku": "15452998065086532905",
         "cost": 2483,
         "price": 2483,
         "title": "Red / 3XL",
@@ -6006,7 +6006,7 @@
       },
       {
         "id": 18508,
-        "sku": "90548485034802091924",
+        "sku": "67428854571468452747",
         "cost": 1858,
         "price": 1858,
         "title": "Team Purple / S",
@@ -6023,7 +6023,7 @@
       },
       {
         "id": 18509,
-        "sku": "22570089931297065467",
+        "sku": "11807858783997169802",
         "cost": 1858,
         "price": 1858,
         "title": "Team Purple / M",
@@ -6040,7 +6040,7 @@
       },
       {
         "id": 18510,
-        "sku": "84669465587758165220",
+        "sku": "14695065789813086715",
         "cost": 1858,
         "price": 1858,
         "title": "Team Purple / L",
@@ -6057,7 +6057,7 @@
       },
       {
         "id": 18511,
-        "sku": "13292969418164681514",
+        "sku": "25074571625152639524",
         "cost": 1858,
         "price": 1858,
         "title": "Team Purple / XL",
@@ -6074,7 +6074,7 @@
       },
       {
         "id": 18512,
-        "sku": "54658655073473273761",
+        "sku": "28838528107776934177",
         "cost": 2217,
         "price": 2217,
         "title": "Team Purple / 2XL",
@@ -6091,7 +6091,7 @@
       },
       {
         "id": 18513,
-        "sku": "26836645007102538217",
+        "sku": "13207377093148293134",
         "cost": 2483,
         "price": 2483,
         "title": "Team Purple / 3XL",
@@ -6108,7 +6108,7 @@
       },
       {
         "id": 18516,
-        "sku": "26872633443265495065",
+        "sku": "85332214021301536037",
         "cost": 1858,
         "price": 1858,
         "title": "True Royal / S",
@@ -6125,7 +6125,7 @@
       },
       {
         "id": 18517,
-        "sku": "72455970361104276823",
+        "sku": "23914361716490067807",
         "cost": 1858,
         "price": 1858,
         "title": "True Royal / M",
@@ -6142,7 +6142,7 @@
       },
       {
         "id": 18518,
-        "sku": "71969332215616809842",
+        "sku": "29643477018952016859",
         "cost": 1858,
         "price": 1858,
         "title": "True Royal / L",
@@ -6159,7 +6159,7 @@
       },
       {
         "id": 18519,
-        "sku": "20196840217260816327",
+        "sku": "30225640044727836379",
         "cost": 1858,
         "price": 1858,
         "title": "True Royal / XL",
@@ -6176,7 +6176,7 @@
       },
       {
         "id": 18520,
-        "sku": "24757838739716929532",
+        "sku": "17559612236903563348",
         "cost": 2217,
         "price": 2217,
         "title": "True Royal / 2XL",
@@ -6193,7 +6193,7 @@
       },
       {
         "id": 18521,
-        "sku": "18811915614204965651",
+        "sku": "27363317174961338773",
         "cost": 2483,
         "price": 2483,
         "title": "True Royal / 3XL",
@@ -6210,7 +6210,7 @@
       },
       {
         "id": 18540,
-        "sku": "38993925329802761959",
+        "sku": "32351244999467168446",
         "cost": 1858,
         "price": 1858,
         "title": "White / S",
@@ -6227,7 +6227,7 @@
       },
       {
         "id": 18541,
-        "sku": "21759257667850362637",
+        "sku": "24062949918788657532",
         "cost": 1858,
         "price": 1858,
         "title": "White / M",
@@ -6244,7 +6244,7 @@
       },
       {
         "id": 18542,
-        "sku": "16115494997544671029",
+        "sku": "33193457728657604456",
         "cost": 1858,
         "price": 1858,
         "title": "White / L",
@@ -6261,7 +6261,7 @@
       },
       {
         "id": 18543,
-        "sku": "24751800983251520372",
+        "sku": "88140290833875639826",
         "cost": 1858,
         "price": 1858,
         "title": "White / XL",
@@ -6278,7 +6278,7 @@
       },
       {
         "id": 18544,
-        "sku": "12059076195592852649",
+        "sku": "99040231576682917195",
         "cost": 2217,
         "price": 2217,
         "title": "White / 2XL",
@@ -6295,7 +6295,7 @@
       },
       {
         "id": 18545,
-        "sku": "17139609035207233469",
+        "sku": "15842683166301276505",
         "cost": 2483,
         "price": 2483,
         "title": "White / 3XL",
@@ -6312,7 +6312,7 @@
       },
       {
         "id": 18548,
-        "sku": "16729656542551758739",
+        "sku": "32949340835726005931",
         "cost": 1858,
         "price": 1858,
         "title": "Yellow / S",
@@ -6329,7 +6329,7 @@
       },
       {
         "id": 18549,
-        "sku": "19606136665616836036",
+        "sku": "13444829394924292213",
         "cost": 1858,
         "price": 1858,
         "title": "Yellow / M",
@@ -6346,7 +6346,7 @@
       },
       {
         "id": 18550,
-        "sku": "39447393474444481015",
+        "sku": "16083602385109616860",
         "cost": 1858,
         "price": 1858,
         "title": "Yellow / L",
@@ -6363,7 +6363,7 @@
       },
       {
         "id": 18551,
-        "sku": "12244651064494359823",
+        "sku": "19964068625417984788",
         "cost": 1858,
         "price": 1858,
         "title": "Yellow / XL",
@@ -6380,7 +6380,7 @@
       },
       {
         "id": 18552,
-        "sku": "20427348940678959150",
+        "sku": "21139406877563462575",
         "cost": 2217,
         "price": 2217,
         "title": "Yellow / 2XL",
@@ -6397,7 +6397,7 @@
       },
       {
         "id": 18553,
-        "sku": "33206330915054481217",
+        "sku": "31186829688606321180",
         "cost": 2483,
         "price": 2483,
         "title": "Yellow / 3XL",
@@ -6414,7 +6414,7 @@
       },
       {
         "id": 38602,
-        "sku": "20999246294779890195",
+        "sku": "12908519677365041153",
         "cost": 1858,
         "price": 1858,
         "title": "Ash / S",
@@ -6431,7 +6431,7 @@
       },
       {
         "id": 38605,
-        "sku": "33688088863539010320",
+        "sku": "51309652683723248830",
         "cost": 1858,
         "price": 1858,
         "title": "Ash / M",
@@ -6448,7 +6448,7 @@
       },
       {
         "id": 38608,
-        "sku": "87450436714147472257",
+        "sku": "12600394022942794786",
         "cost": 1858,
         "price": 1858,
         "title": "Ash / L",
@@ -6465,7 +6465,7 @@
       },
       {
         "id": 38611,
-        "sku": "92497442470181051891",
+        "sku": "15635882582668838790",
         "cost": 1858,
         "price": 1858,
         "title": "Ash / XL",
@@ -6482,7 +6482,7 @@
       },
       {
         "id": 38614,
-        "sku": "27841952431967493094",
+        "sku": "16499490389653324594",
         "cost": 2217,
         "price": 2217,
         "title": "Ash / 2XL",
@@ -6499,7 +6499,7 @@
       },
       {
         "id": 38617,
-        "sku": "21587879837113778229",
+        "sku": "27487801027963177768",
         "cost": 2483,
         "price": 2483,
         "title": "Ash / 3XL",
@@ -6517,8 +6517,8 @@
     ],
     "images": [
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102044_front-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102044_front-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2",
         "variant_ids": [
           18100,
           18101,
@@ -6533,8 +6533,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102045_back-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102045/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back-2",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102045_back-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102045/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back-2",
         "variant_ids": [
           18100,
           18101,
@@ -6549,8 +6549,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102046_folded",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102046/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=folded",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102046_folded",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102046/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=folded",
         "variant_ids": [
           18100,
           18101,
@@ -6565,8 +6565,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102048_hanging-1",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102048/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-1",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102048_hanging-1",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102048/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-1",
         "variant_ids": [
           18100,
           18101,
@@ -6581,8 +6581,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102047_hanging-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102047/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-2",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102047_hanging-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102047/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-2",
         "variant_ids": [
           18100,
           18101,
@@ -6597,8 +6597,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102049_hanging-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102049/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-3",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102049_hanging-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102049/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=hanging-3",
         "variant_ids": [
           18100,
           18101,
@@ -6613,8 +6613,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92735_front-collar-closeup",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92735/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-collar-closeup",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92735_front-collar-closeup",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92735/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-collar-closeup",
         "variant_ids": [
           18100,
           18101,
@@ -6629,8 +6629,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92736_back-collar-closeup",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92736/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back-collar-closeup",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92736_back-collar-closeup",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92736/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back-collar-closeup",
         "variant_ids": [
           18100,
           18101,
@@ -6645,8 +6645,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92578_person-1",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92578/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-1",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92578_person-1",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92578/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-1",
         "variant_ids": [
           18100,
           18101,
@@ -6661,8 +6661,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92579_person-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92579/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-2",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92579_person-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92579/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-2",
         "variant_ids": [
           18100,
           18101,
@@ -6677,8 +6677,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92580_person-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92580/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-3",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92580_person-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92580/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-3",
         "variant_ids": [
           18100,
           18101,
@@ -6693,8 +6693,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92581_person-4",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92581/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-4",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92581_person-4",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92581/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-4",
         "variant_ids": [
           18100,
           18101,
@@ -6709,8 +6709,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92582_person-5",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92582/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-5",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92582_person-5",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92582/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-5",
         "variant_ids": [
           18100,
           18101,
@@ -6725,8 +6725,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92583_person-6",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92583/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-6",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92583_person-6",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92583/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-6",
         "variant_ids": [
           18100,
           18101,
@@ -6741,8 +6741,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102054_person-6-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102054/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-6-back",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102054_person-6-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102054/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-6-back",
         "variant_ids": [
           18100,
           18101,
@@ -6757,8 +6757,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102057_person-7-front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102057/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-7-front",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102057_person-7-front",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102057/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-7-front",
         "variant_ids": [
           18100,
           18101,
@@ -6773,8 +6773,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102058_person-7-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102058/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-7-back",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102058_person-7-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102058/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-7-back",
         "variant_ids": [
           18100,
           18101,
@@ -6789,8 +6789,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102059_person-8-front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102059/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-8-front",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102059_person-8-front",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102059/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-8-front",
         "variant_ids": [
           18100,
           18101,
@@ -6805,8 +6805,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102060_person-8-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102060/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-8-back",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102060_person-8-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102060/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-8-back",
         "variant_ids": [
           18100,
           18101,
@@ -6821,8 +6821,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102061_person-9-front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102061/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-9-front",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102061_person-9-front",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102061/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-9-front",
         "variant_ids": [
           18100,
           18101,
@@ -6837,8 +6837,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102062_person-9-back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102062/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-9-back",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102062_person-9-back",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102062/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-9-back",
         "variant_ids": [
           18100,
           18101,
@@ -6853,8 +6853,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92584_lifestyle",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92584/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=lifestyle",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92584_lifestyle",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92584/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=lifestyle",
         "variant_ids": [
           18100,
           18101,
@@ -6869,8 +6869,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92585_duo",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92585/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92585_duo",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92585/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo",
         "variant_ids": [
           18100,
           18101,
@@ -6885,8 +6885,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102051_duo-2",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102051/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-2",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102051_duo-2",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102051/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-2",
         "variant_ids": [
           18100,
           18101,
@@ -6901,8 +6901,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102052_duo-3",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102052/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-3",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102052_duo-3",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102052/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-3",
         "variant_ids": [
           18100,
           18101,
@@ -6917,8 +6917,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102053_duo-4",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102053/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-4",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102053_duo-4",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102053/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=duo-4",
         "variant_ids": [
           18100,
           18101,
@@ -6933,8 +6933,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_111785_person-10-left-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/111785/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-10-left-sleeve",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_111785_person-10-left-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/111785/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-10-left-sleeve",
         "variant_ids": [
           18100,
           18101,
@@ -6949,8 +6949,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_111786_person-10-right-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/111786/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-10-right-sleeve",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_111786_person-10-right-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/111786/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-10-right-sleeve",
         "variant_ids": [
           18100,
           18101,
@@ -6965,8 +6965,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_111787_person-11-left-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/111787/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-11-left-sleeve",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_111787_person-11-left-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/111787/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-11-left-sleeve",
         "variant_ids": [
           18100,
           18101,
@@ -6981,8 +6981,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_111788_person-11-right-sleeve",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/111788/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-11-right-sleeve",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_111788_person-11-right-sleeve",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/111788/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=person-11-right-sleeve",
         "variant_ids": [
           18100,
           18101,
@@ -6997,8 +6997,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92547_front",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92547/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92547_front",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92547/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front",
         "variant_ids": [
           18100,
           18101,
@@ -7013,8 +7013,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_92720_back",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/92720/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_92720_back",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/92720/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=back",
         "variant_ids": [
           18100,
           18101,
@@ -7029,8 +7029,8 @@
         "order": null
       },
       {
-        "mockup_id": "6aa5bd2cfeeb21d8740fad16_18102_102050_size-chart",
-        "src": "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102050/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=size-chart",
+        "mockup_id": "6aa7a49b00e348554207daf3_18102_102050_size-chart",
+        "src": "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102050/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=size-chart",
         "variant_ids": [
           18100,
           18101,
@@ -7045,13 +7045,13 @@
         "order": null
       }
     ],
-    "created_at": "2026-09-12 20:59:24+00:00",
-    "updated_at": "2026-09-12 20:59:24+00:00",
+    "created_at": "2026-09-14 07:39:07+00:00",
+    "updated_at": "2026-09-14 07:39:10+00:00",
     "visible": true,
-    "is_locked": false,
+    "is_locked": true,
     "blueprint_id": 12,
     "user_id": 28198904,
-    "shop_id": 28919165,
+    "shop_id": 28933843,
     "print_provider_id": 41,
     "print_areas": [
       {
@@ -7177,7 +7177,7 @@
                 "angle": 0,
                 "src": "https://pfy-prod-image-storage.s3.us-east-2.amazonaws.com/28198904/32554235-3d47-469c-af94-1e8108c062ef",
                 "layerType": "image",
-                "imageId": "6aa5bd212d1053399ca1bc1f_c470e4d5-13ee-a800-4b8c-5da34842d467"
+                "imageId": "6aa5bd212d1053399ca1bc1f_944cd5f7-9c8d-46ca-41af-7050e3a2e791"
               }
             ],
             "decoration_method": "dtg"

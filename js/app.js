@@ -97,7 +97,7 @@
   // Nyx Voss Merch Data & Modal
   const NYX_MERCH = {
     tee: {
-      productId: "6aa5bd2cfeeb21d8740fad16",
+      productId: "6aa7a49b00e348554207daf3",
       defaultVariantId: 18102,
       title: "Nothing Soft Survives Heavyweight Band Tee",
       price: 34,
@@ -111,11 +111,11 @@
         "3XL": 18105
       },
       spec: "100% Combed Ringspun Cotton • Pitch Black",
-      img: "https://images-api.printify.com/mockup/6aa5bd2cfeeb21d8740fad16/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2",
+      img: "https://images-api.printify.com/mockup/6aa7a49b00e348554207daf3/18102/102044/nyx-voss-nothing-soft-survives-heavyweight-band-tee.jpg?camera_label=front-2",
       desc: "Official heavyweight vintage black band tee featuring the Nothing Soft Survives album cover art and industrial gothic typography."
     },
     hoodie: {
-      productId: "6aa5bd30b6bdffef520bd68a",
+      productId: "6aa7a47545e1a32cff069559",
       defaultVariantId: 32920,
       title: "Nothing Soft Survives Heavyweight Fleece Hoodie",
       price: 58,
@@ -129,27 +129,27 @@
         "3XL": 32923
       },
       spec: "10oz Heavyweight Fleece • Deep Black",
-      img: "https://images-api.printify.com/mockup/6aa5bd30b6bdffef520bd68a/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front",
+      img: "https://images-api.printify.com/mockup/6aa7a47545e1a32cff069559/32920/98424/nyx-voss-nothing-soft-survives-heavyweight-fleece-hoodie.jpg?camera_label=front",
       desc: "Premium heavyweight pullover hoodie with double-layer hood, front pouch pocket, and high definition Nothing Soft Survives front print."
     },
     poster: {
-      productId: "6aa5bd3381bf80bae9088fbe",
+      productId: "6aa7a45c731b96c94d02de5d",
       defaultVariantId: 43172,
       title: "Cathedral Seraph Archival Gothic Poster (18\" x 24\")",
       price: 24,
       sizes: null,
       spec: "175gsm Fine Art Matte • Archival Print",
-      img: "https://images-api.printify.com/mockup/6aa5bd3381bf80bae9088fbe/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front",
+      img: "https://images-api.printify.com/mockup/6aa7a45c731b96c94d02de5d/43172/94818/nyx-voss-cathedral-seraph-archival-gothic-poster.jpg?camera_label=front",
       desc: "Limited fine art giclée print of Nyx Voss standing before the cathedral altar. Vibrant archival inks on heavy matte paper."
     },
     mug: {
-      productId: "6aa5bd35c2763c2ff201c2f3",
+      productId: "6aa7a43745e1a32cff069527",
       defaultVariantId: 33719,
       title: "Gothic Monogram Ceramic Mug (11oz)",
       price: 16,
       sizes: null,
       spec: "11oz High-Gloss Black Accent Ceramic",
-      img: "https://images-api.printify.com/mockup/6aa5bd35c2763c2ff201c2f3/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front",
+      img: "https://images-api.printify.com/mockup/6aa7a43745e1a32cff069527/33719/6400/nyx-voss-nothing-soft-survives-ceramic-mug-11oz.jpg?camera_label=front",
       desc: "High gloss black accent ceramic mug with razor-sharp album artwork and NV emblem. Microwave & dishwasher safe."
     }
   };

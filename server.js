@@ -14,7 +14,7 @@ if (fs.existsSync(path.join(__dirname, '.env.local'))) {
 const Stripe = require('stripe');
 const stripe = process.env.STRIPE_SECRET_KEY ? new Stripe(process.env.STRIPE_SECRET_KEY) : null;
 const PRINTIFY_TOKEN = process.env.PRINTIFY_TOKEN;
-const PRINTIFY_SHOP_ID = process.env.PRINTIFY_SHOP_ID || '28919165';
+const PRINTIFY_SHOP_ID = process.env.PRINTIFY_SHOP_ID || '28933843';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
